@@ -1,0 +1,27 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Copiers,8399.976,4,0.4,1119.9968
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Copiers,1799.97,5,0.4,239.996
+First Class,Consumer,United States,Columbus,Ohio,43229,East,Technology,Copiers,1439.976,4,0.4,191.9968
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Copiers,1199.976,4,0.4,179.9964
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Copiers,1079.976,4,0.4,125.9972
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Technology,Copiers,659.988,2,0.4,109.998
+First Class,Consumer,United States,Toledo,Ohio,43615,East,Technology,Phones,629.958,7,0.4,94.4937
+Standard Class,Corporate,United States,Bowling Green,Ohio,43402,East,Technology,Copiers,899.982,3,0.4,74.9985
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,545.916,14,0.4,72.7888
+First Class,Corporate,United States,Cincinnati,Ohio,45231,East,Technology,Copiers,839.988,2,0.4,69.999
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Copiers,599.97,5,0.4,69.9965
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Technology,Machines,479.988,2,0.4,55.9986
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Technology,Machines,597.132,3,0.4,49.761
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Technology,Machines,336.51,3,0.4,44.868
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,358.2,3,0.4,41.79
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,269.982,3,0.4,40.4973
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Machines,287.91,3,0.4,33.5895
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Machines,287.91,3,0.4,33.5895
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,118.65,5,0.4,19.775
+Second Class,Consumer,United States,Grove City,Ohio,43123,East,Technology,Phones,119.94,10,0.4,15.992
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,94.92,4,0.4,15.82
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,62.958,7,0.4,9.4437
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,71.928,12,0.4,8.3916
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,32.382,3,0.4,4.3176
+Second Class,Consumer,United States,Bowling Green,Ohio,43402,East,Technology,Phones,26.982,3,0.4,4.0473
+Standard Class,Corporate,United States,Toledo,Ohio,43615,East,Technology,Phones,26.376,4,0.4,2.6376

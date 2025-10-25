@@ -1,0 +1,1505 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Bookcases,261.96,2,0.0,41.9136
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Furniture,Tables,957.5775,5,0.45,-383.031
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,48.86,7,0.0,14.1694
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Tables,1706.184,9,0.2,85.3092
+Standard Class,Consumer,United States,Orem,Utah,84057,West,Furniture,Tables,1044.63,3,0.0,240.2649
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,3083.43,7,0.5,-1665.0522
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,124.2,3,0.2,15.525
+First Class,Corporate,United States,Richardson,Texas,75080,Central,Furniture,Furnishings,190.92,5,0.6,-147.963
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Bookcases,532.3992,3,0.32,-46.9764
+Standard Class,Consumer,United States,New Albany,Indiana,47150,Central,Furniture,Furnishings,6.16,2,0.0,2.9568
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Furnishings,79.76,4,0.0,22.3328
+Standard Class,Consumer,United States,Memphis,Tennessee,38109,South,Furniture,Furnishings,97.04,2,0.2,1.213
+First Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,9.708,3,0.6,-5.8248
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Furnishings,19.3,5,0.6,-14.475
+Second Class,Consumer,United States,Minneapolis,Minnesota,55407,Central,Furniture,Furnishings,53.34,3,0.0,16.5354
+Second Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,96.53,7,0.0,40.5426
+Standard Class,Consumer,United States,Aurora,Colorado,80013,West,Furniture,Furnishings,102.36,3,0.2,-3.8385
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,41.96,2,0.0,10.9096
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Tables,787.53,3,0.0,165.3813
+First Class,Consumer,United States,Wilmington,Delaware,19805,East,Furniture,Furnishings,47.04,3,0.0,18.3456
+Standard Class,Consumer,United States,Bloomington,Illinois,61701,Central,Furniture,Tables,617.7,6,0.5,-407.682
+Second Class,Home Office,United States,Los Angeles,California,90004,West,Furniture,Furnishings,238.56,3,0.0,26.2416
+Standard Class,Consumer,United States,Roseville,California,95661,West,Furniture,Furnishings,43.12,14,0.0,20.6976
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,82.8,2,0.2,10.35
+Standard Class,Home Office,United States,Newark,Ohio,43055,East,Furniture,Furnishings,93.888,4,0.2,12.9096
+First Class,Home Office,United States,New York City,New York,10035,East,Furniture,Bookcases,899.136,4,0.2,112.392
+First Class,Home Office,United States,New York City,New York,10035,East,Furniture,Bookcases,626.352,3,0.2,46.9764
+First Class,Consumer,United States,Denver,Colorado,80219,West,Furniture,Tables,218.75,2,0.5,-161.875
+Standard Class,Corporate,United States,Franklin,Tennessee,37064,South,Furniture,Furnishings,35.168,7,0.2,9.6712
+Standard Class,Corporate,United States,Medina,Ohio,44256,East,Furniture,Bookcases,452.45,5,0.5,-244.323
+First Class,Consumer,United States,Dublin,Ohio,43017,East,Furniture,Furnishings,72.704,4,0.2,19.0848
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,Furniture,Tables,622.45,5,0.0,136.939
+Standard Class,Home Office,United States,Tampa,Florida,33614,South,Furniture,Tables,233.86,2,0.45,-102.048
+Standard Class,Home Office,United States,Tampa,Florida,33614,South,Furniture,Tables,620.6145,3,0.45,-248.2458
+Standard Class,Home Office,United States,Tampa,Florida,33614,South,Furniture,Furnishings,258.072,3,0.2,0.0
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,419.68,5,0.6,-356.728
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,11.688,3,0.6,-4.6752
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Tables,177.225,5,0.5,-120.513
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,4.044,3,0.6,-2.8308
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Furniture,Furnishings,12.132,9,0.6,-8.4924
+First Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Furnishings,5.28,3,0.0,2.3232
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Tables,1038.84,5,0.2,51.942
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,Furniture,Bookcases,86.97,3,0.5,-48.7032
+First Class,Corporate,United States,Colorado Springs,Colorado,80906,West,Furniture,Furnishings,300.416,8,0.2,78.8592
+First Class,Corporate,United States,Colorado Springs,Colorado,80906,West,Furniture,Furnishings,218.352,3,0.2,-24.5646
+Standard Class,Corporate,United States,Belleville,New Jersey,7109,East,Furniture,Furnishings,77.6,4,0.0,38.024
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Tables,219.075,3,0.5,-131.445
+Second Class,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,26.8,2,0.0,12.864
+Second Class,Corporate,United States,Arvada,Colorado,80004,West,Furniture,Furnishings,15.136,4,0.2,3.5948
+Second Class,Corporate,United States,Arvada,Colorado,80004,West,Furniture,Furnishings,15.232,1,0.2,1.7136
+Standard Class,Corporate,United States,Hackensack,New Jersey,7601,East,Furniture,Furnishings,87.54,3,0.0,37.6422
+Second Class,Corporate,United States,Murfreesboro,Tennessee,37130,South,Furniture,Furnishings,15.992,1,0.2,0.9995
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Furniture,Tables,698.352,3,0.2,-17.4588
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,388.704,6,0.2,-4.8588
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,47.12,8,0.0,20.7328
+Same Day,Corporate,United States,Manchester,Connecticut,6040,East,Furniture,Bookcases,1043.92,4,0.0,271.4192
+Standard Class,Corporate,United States,Franklin,Massachusetts,2038,East,Furniture,Tables,1488.424,7,0.3,-297.6848
+Standard Class,Consumer,United States,Pembroke Pines,Florida,33024,South,Furniture,Tables,375.4575,3,0.45,-157.0095
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,2.96,1,0.2,0.777
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Bookcases,2396.2656,4,0.32,-317.1528
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Tables,1004.024,7,0.2,-112.9527
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Bookcases,1336.829,13,0.15,31.4548
+Standard Class,Corporate,United States,Lawrence,Massachusetts,1841,East,Furniture,Furnishings,56.56,4,0.0,14.7056
+Second Class,Corporate,United States,Canton,Michigan,48187,Central,Furniture,Furnishings,28.4,2,0.0,11.076
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,Furniture,Furnishings,12.22,1,0.0,3.666
+Second Class,Consumer,United States,Columbus,Indiana,47201,Central,Furniture,Furnishings,2.91,1,0.0,1.3677
+Standard Class,Corporate,United States,Akron,Ohio,44312,East,Furniture,Tables,284.364,2,0.4,-75.8304
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Furniture,Furnishings,23.56,5,0.2,7.068
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Furniture,Tables,1272.63,6,0.5,-814.4832
+Standard Class,Home Office,United States,Park Ridge,Illinois,60068,Central,Furniture,Furnishings,254.744,7,0.6,-312.0614
+Standard Class,Corporate,United States,Amarillo,Texas,79109,Central,Furniture,Bookcases,205.3328,2,0.32,-36.2352
+Second Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Bookcases,222.666,2,0.15,10.4784
+Standard Class,Consumer,United States,Troy,New York,12180,East,Furniture,Furnishings,40.2,3,0.0,19.296
+First Class,Home Office,United States,Los Angeles,California,90045,West,Furniture,Bookcases,514.165,5,0.15,-30.245
+Second Class,Consumer,United States,Memphis,Tennessee,38109,South,Furniture,Tables,189.882,3,0.4,-94.941
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Furniture,Furnishings,255.76,4,0.0,81.8432
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Furniture,Furnishings,69.3,9,0.0,22.869
+First Class,Consumer,United States,Gladstone,Missouri,64118,Central,Furniture,Furnishings,126.3,3,0.0,40.416
+First Class,Corporate,United States,Detroit,Michigan,48234,Central,Furniture,Tables,210.98,2,0.0,21.098
+Standard Class,Home Office,United States,Lakeland,Florida,33801,South,Furniture,Furnishings,45.696,3,0.2,5.1408
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,47.94,3,0.0,2.397
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Furniture,Furnishings,66.112,4,0.6,-84.2928
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,Furniture,Furnishings,34.504,1,0.2,6.0382
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Tables,1335.68,4,0.2,-217.048
+Second Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Furnishings,42.6,3,0.0,16.614
+Second Class,Consumer,United States,Tampa,Florida,33614,South,Furniture,Furnishings,13.128,3,0.2,3.7743
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,8.792,1,0.6,-5.7148
+Standard Class,Consumer,United States,San Diego,California,92024,West,Furniture,Furnishings,327.76,8,0.0,91.7728
+Standard Class,Consumer,United States,Tampa,Florida,33614,South,Furniture,Furnishings,45.696,3,0.2,5.1408
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,40.48,2,0.0,15.7872
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,9.94,2,0.0,3.0814
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,88.02,3,0.0,27.2862
+Standard Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,35.56,7,0.0,12.0904
+Standard Class,Home Office,United States,Vallejo,California,94591,West,Furniture,Furnishings,1049.2,5,0.0,272.792
+Standard Class,Corporate,United States,Minneapolis,Minnesota,55407,Central,Furniture,Furnishings,18.84,3,0.0,6.0288
+Second Class,Corporate,United States,Vancouver,Washington,98661,West,Furniture,Furnishings,14.8,4,0.0,6.068
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Furniture,Tables,918.785,5,0.3,-118.1295
+First Class,Consumer,United States,Cleveland,Ohio,44105,East,Furniture,Furnishings,30.36,5,0.2,8.7285
+Standard Class,Home Office,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,23.976,3,0.6,-14.3856
+Standard Class,Home Office,United States,Chicago,Illinois,60653,Central,Furniture,Tables,108.925,1,0.5,-71.8905
+Standard Class,Consumer,United States,Tyler,Texas,75701,Central,Furniture,Furnishings,82.524,3,0.6,-41.262
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,191.984,2,0.2,4.7996
+Second Class,Consumer,United States,Waynesboro,Virginia,22980,South,Furniture,Furnishings,104.01,1,0.0,14.5614
+Standard Class,Corporate,United States,Cleveland,Ohio,44105,East,Furniture,Furnishings,15.072,3,0.2,4.1448
+Second Class,Corporate,United States,Seattle,Washington,98103,West,Furniture,Furnishings,209.88,3,0.0,35.6796
+Standard Class,Consumer,United States,Long Beach,California,90805,West,Furniture,Tables,369.912,3,0.2,-13.8717
+First Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,883.92,5,0.2,-110.49
+First Class,Consumer,United States,Dover,Delaware,19901,East,Furniture,Furnishings,9.94,2,0.0,3.0814
+Standard Class,Consumer,United States,Newark,Ohio,43055,East,Furniture,Furnishings,103.056,3,0.2,24.4758
+Standard Class,Home Office,United States,Orem,Utah,84057,West,Furniture,Furnishings,73.32,6,0.0,21.996
+Standard Class,Corporate,United States,Detroit,Michigan,48205,Central,Furniture,Tables,1652.94,3,0.0,231.4116
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,129.92,5,0.2,21.112
+First Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Tables,400.032,2,0.4,-153.3456
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Bookcases,84.98,1,0.0,18.6956
+Same Day,Corporate,United States,San Diego,California,92105,West,Furniture,Tables,567.12,10,0.2,-28.356
+Standard Class,Consumer,United States,Trenton,Michigan,48183,Central,Furniture,Furnishings,157.74,11,0.0,56.7864
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Furnishings,79.92,4,0.0,28.7712
+Standard Class,Corporate,United States,Jacksonville,Florida,32216,South,Furniture,Tables,383.438,4,0.45,-167.3184
+Standard Class,Corporate,United States,Saint Petersburg,Florida,33710,South,Furniture,Furnishings,310.88,2,0.2,23.316
+Standard Class,Corporate,United States,Des Moines,Iowa,50315,Central,Furniture,Furnishings,34.58,7,0.0,14.5236
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Bookcases,35.49,1,0.5,-15.6156
+First Class,Corporate,United States,San Diego,California,92105,West,Furniture,Furnishings,22.23,1,0.0,7.3359
+First Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,18.28,2,0.0,6.2152
+First Class,Consumer,United States,Omaha,Nebraska,68104,Central,Furniture,Furnishings,28.4,2,0.0,11.076
+First Class,Consumer,United States,Edmonds,Washington,98026,West,Furniture,Tables,1298.55,5,0.0,311.652
+Same Day,Consumer,United States,Santa Ana,California,92704,West,Furniture,Furnishings,18.28,2,0.0,6.2152
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Bookcases,186.048,4,0.2,9.3024
+Standard Class,Consumer,United States,Lorain,Ohio,44052,East,Furniture,Furnishings,48.896,4,0.2,8.5568
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,44.46,2,0.0,14.6718
+Standard Class,Corporate,United States,Springfield,Virginia,22153,South,Furniture,Furnishings,51.94,1,0.0,21.2954
+Standard Class,Home Office,United States,Concord,New Hampshire,3301,East,Furniture,Furnishings,322.59,3,0.0,64.518
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,Furniture,Furnishings,31.4,5,0.0,10.048
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Furniture,Furnishings,17.46,2,0.0,5.9364
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Bookcases,323.136,4,0.2,12.1176
+Standard Class,Home Office,United States,Norwich,Connecticut,6360,East,Furniture,Furnishings,22.2,6,0.0,9.102
+First Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,46.94,1,0.0,19.2454
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Furniture,Tables,99.918,2,0.3,-18.5562
+Standard Class,Corporate,United States,Torrance,California,90503,West,Furniture,Tables,1114.272,4,0.2,41.7852
+First Class,Consumer,United States,Mesa,Arizona,85204,West,Furniture,Tables,393.165,3,0.5,-204.4458
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,516.488,7,0.2,-12.9122
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,1007.232,6,0.2,75.5424
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,2065.32,12,0.4,-619.596
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,25.472,4,0.2,7.6416
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Furniture,Bookcases,78.8528,2,0.32,-11.596
+Same Day,Consumer,United States,Oceanside,California,92054,West,Furniture,Furnishings,204.6,2,0.0,53.196
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,127.104,6,0.2,28.5984
+Standard Class,Corporate,United States,Auburn,New York,13021,East,Furniture,Furnishings,520.05,5,0.0,72.807
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Furnishings,24.1,5,0.0,9.158
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Furnishings,33.11,7,0.0,12.9129
+Same Day,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,1090.782,7,0.4,-290.8752
+First Class,Consumer,United States,San Diego,California,92037,West,Furniture,Furnishings,151.72,4,0.0,27.3096
+Second Class,Consumer,United States,Olympia,Washington,98502,West,Furniture,Furnishings,155.25,3,0.0,46.575
+Second Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Tables,1618.37,13,0.0,356.0414
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,13.96,2,0.0,6.7008
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,155.82,3,0.0,63.8862
+Standard Class,Corporate,United States,Hackensack,New Jersey,7601,East,Furniture,Furnishings,124.11,9,0.0,52.1262
+Standard Class,Home Office,United States,Jefferson City,Missouri,65109,Central,Furniture,Furnishings,86.62,2,0.0,8.662
+Standard Class,Home Office,United States,Saint Peters,Missouri,63376,Central,Furniture,Tables,697.16,4,0.0,146.4036
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,722.352,3,0.2,90.294
+Standard Class,Consumer,United States,Miami,Florida,33142,South,Furniture,Furnishings,102.36,3,0.2,-3.8385
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,168.464,2,0.2,-29.4812
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,282.888,9,0.2,56.5776
+Standard Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,108.4,2,0.0,22.764
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Furniture,Tables,836.592,8,0.4,-264.9208
+Standard Class,Corporate,United States,Monroe,North Carolina,28110,South,Furniture,Furnishings,31.984,2,0.2,1.999
+First Class,Corporate,United States,Los Angeles,California,90049,West,Furniture,Tables,447.84,5,0.2,11.196
+First Class,Home Office,United States,San Francisco,California,94122,West,Furniture,Furnishings,8.73,3,0.0,4.1031
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,2.328,2,0.6,-0.7566
+Second Class,Consumer,United States,Encinitas,California,92024,West,Furniture,Bookcases,119.833,1,0.15,-12.6882
+Standard Class,Consumer,United States,Jonesboro,Arkansas,72401,South,Furniture,Furnishings,38.6,4,0.0,11.58
+Standard Class,Consumer,United States,Springfield,Virginia,22153,South,Furniture,Tables,343.92,4,0.0,75.6624
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,204.6,2,0.0,53.196
+Standard Class,Corporate,United States,Cuyahoga Falls,Ohio,44221,East,Furniture,Furnishings,8.352,6,0.2,1.2528
+First Class,Home Office,United States,Harrisonburg,Virginia,22801,South,Furniture,Tables,2244.48,7,0.0,493.7856
+First Class,Home Office,United States,Harrisonburg,Virginia,22801,South,Furniture,Tables,455.1,2,0.0,100.122
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,109.48,2,0.0,33.9388
+Same Day,Corporate,United States,Coral Springs,Florida,33065,South,Furniture,Furnishings,15.712,4,0.2,2.5532
+Same Day,Corporate,United States,Coral Springs,Florida,33065,South,Furniture,Furnishings,55.968,1,0.2,-2.0988
+Second Class,Corporate,United States,New York City,New York,10009,East,Furniture,Bookcases,579.136,4,0.2,21.7176
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,17.024,2,0.2,1.7024
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,113.79,3,0.0,20.4822
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,8.73,1,0.0,2.9682
+Same Day,Consumer,United States,Boynton Beach,Florida,33437,South,Furniture,Furnishings,47.952,3,0.2,13.7862
+Same Day,Consumer,United States,Boynton Beach,Florida,33437,South,Furniture,Furnishings,63.968,2,0.2,0.0
+Same Day,Consumer,United States,Boynton Beach,Florida,33437,South,Furniture,Furnishings,165.048,3,0.2,41.262
+Standard Class,Consumer,United States,Seattle,Washington,98105,West,Furniture,Furnishings,12.35,1,0.0,5.434
+Second Class,Consumer,United States,Fresno,California,93727,West,Furniture,Tables,764.688,6,0.2,95.586
+Second Class,Consumer,United States,Fresno,California,93727,West,Furniture,Tables,3610.848,12,0.2,135.4068
+Second Class,Consumer,United States,Fresno,California,93727,West,Furniture,Bookcases,254.9745,3,0.15,11.9988
+Standard Class,Home Office,United States,Chester,Pennsylvania,19013,East,Furniture,Furnishings,6.696,1,0.2,0.5022
+Standard Class,Home Office,United States,Chester,Pennsylvania,19013,East,Furniture,Furnishings,43.872,2,0.2,11.5164
+First Class,Consumer,United States,La Porte,Indiana,46350,Central,Furniture,Furnishings,41.85,5,0.0,10.881
+Standard Class,Corporate,United States,Louisville,Colorado,80027,West,Furniture,Furnishings,29.328,3,0.2,3.666
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,39.88,2,0.0,11.1664
+Second Class,Consumer,United States,Springfield,Virginia,22153,South,Furniture,Furnishings,572.76,6,0.0,166.1004
+Second Class,Consumer,United States,Springfield,Virginia,22153,South,Furniture,Furnishings,286.38,3,0.0,83.0502
+Second Class,Home Office,United States,Arlington,Virginia,22204,South,Furniture,Bookcases,61.96,2,0.0,4.3372
+Standard Class,Consumer,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,23.99,1,0.0,5.5177
+Standard Class,Corporate,United States,Los Angeles,California,90032,West,Furniture,Furnishings,183.84,8,0.0,62.5056
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,51.072,6,0.2,5.1072
+Standard Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Furnishings,37.05,3,0.0,16.302
+Standard Class,Consumer,United States,Los Angeles,California,90008,West,Furniture,Furnishings,25.11,3,0.0,6.5286
+Second Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,29.78,2,0.0,8.0406
+Standard Class,Corporate,United States,San Francisco,California,94109,West,Furniture,Tables,300.904,1,0.2,11.2839
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,Furniture,Furnishings,1.988,1,0.6,-1.4413
+First Class,Home Office,United States,Pico Rivera,California,90660,West,Furniture,Furnishings,145.9,5,0.0,62.737
+Standard Class,Consumer,United States,Colorado Springs,Colorado,80906,West,Furniture,Bookcases,590.058,7,0.7,-786.744
+Standard Class,Consumer,United States,Provo,Utah,84604,West,Furniture,Tables,912.75,5,0.0,118.6575
+Standard Class,Home Office,United States,Aurora,Illinois,60505,Central,Furniture,Furnishings,83.952,3,0.6,-90.2484
+Same Day,Home Office,United States,Smyrna,Georgia,30080,South,Furniture,Furnishings,18.84,3,0.0,7.1592
+Same Day,Home Office,United States,Smyrna,Georgia,30080,South,Furniture,Bookcases,239.98,2,0.0,52.7956
+Standard Class,Corporate,United States,Aurora,Illinois,60505,Central,Furniture,Tables,652.45,5,0.5,-430.617
+Standard Class,Corporate,United States,Aurora,Illinois,60505,Central,Furniture,Tables,66.645,3,0.5,-42.6528
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,Furniture,Tables,205.176,2,0.4,-58.1332
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,154.764,3,0.4,-36.1116
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,39.98,2,0.0,9.995
+Standard Class,Consumer,United States,Phoenix,Arizona,85023,West,Furniture,Tables,393.165,3,0.5,-204.4458
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,165.28,4,0.0,14.8752
+Second Class,Home Office,United States,Costa Mesa,California,92627,West,Furniture,Furnishings,37.74,3,0.0,12.8316
+First Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,4.928,4,0.6,-1.4784
+Standard Class,Home Office,United States,Columbus,Georgia,31907,South,Furniture,Tables,452.94,3,0.0,67.941
+Same Day,Consumer,United States,Middletown,Connecticut,6457,East,Furniture,Furnishings,27.46,2,0.0,9.8856
+Standard Class,Consumer,United States,Vineland,New Jersey,8360,East,Furniture,Tables,244.006,2,0.3,-31.3722
+Standard Class,Consumer,United States,Glendale,Arizona,85301,West,Furniture,Furnishings,121.376,4,0.2,-3.0344
+Same Day,Consumer,United States,Houston,Texas,77036,Central,Furniture,Furnishings,6.688,4,0.6,-4.0128
+Standard Class,Home Office,United States,Los Angeles,California,90008,West,Furniture,Furnishings,42.6,3,0.0,16.614
+Standard Class,Corporate,United States,Vancouver,Washington,98661,West,Furniture,Furnishings,9.64,2,0.0,3.6632
+Standard Class,Home Office,United States,Los Angeles,California,90045,West,Furniture,Furnishings,9.94,2,0.0,3.0814
+Standard Class,Home Office,United States,Los Angeles,California,90004,West,Furniture,Tables,1004.976,6,0.2,-175.8708
+First Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Furnishings,8.36,2,0.0,3.0096
+Second Class,Consumer,United States,North Las Vegas,Nevada,89031,West,Furniture,Tables,1669.6,4,0.0,116.872
+Standard Class,Consumer,United States,Tucson,Arizona,85705,West,Furniture,Furnishings,206.112,6,0.2,48.9516
+Standard Class,Consumer,United States,Allentown,Pennsylvania,18103,East,Furniture,Furnishings,11.648,2,0.2,3.3488
+Standard Class,Home Office,United States,Laguna Niguel,California,92677,West,Furniture,Bookcases,203.983,2,0.15,16.7986
+Second Class,Consumer,United States,Everett,Massachusetts,2149,East,Furniture,Bookcases,782.94,3,0.0,203.5644
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,8.32,5,0.2,2.288
+Second Class,Corporate,United States,Watertown,New York,13601,East,Furniture,Bookcases,1573.488,7,0.2,196.686
+Second Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Tables,171.96,2,0.0,44.7096
+Same Day,Consumer,United States,New York City,New York,10011,East,Furniture,Tables,1044.63,5,0.4,-295.9785
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,382.806,9,0.4,-153.1224
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,47.04,3,0.0,18.3456
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,6.16,2,0.0,2.9568
+First Class,Home Office,United States,Peoria,Illinois,61604,Central,Furniture,Bookcases,359.058,3,0.3,-35.9058
+First Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,547.3,13,0.0,175.136
+Second Class,Consumer,United States,Carrollton,Texas,75007,Central,Furniture,Furnishings,15.992,2,0.6,-13.993
+Second Class,Corporate,United States,Dover,Delaware,19901,East,Furniture,Furnishings,211.96,2,0.0,42.392
+Standard Class,Corporate,United States,Los Angeles,California,90008,West,Furniture,Bookcases,290.666,2,0.15,27.3568
+Standard Class,Consumer,United States,Kent,Washington,98031,West,Furniture,Furnishings,198.46,2,0.0,99.23
+Second Class,Consumer,United States,Cleveland,Ohio,44105,East,Furniture,Furnishings,17.92,5,0.2,2.464
+Standard Class,Consumer,United States,Washington,District of Columbia,20016,East,Furniture,Furnishings,41.37,3,0.0,17.3754
+First Class,Consumer,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,34.79,7,0.0,10.7849
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Tables,1018.104,4,0.4,-373.3048
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,21.936,2,0.6,-10.4196
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,42.368,2,0.2,8.4736
+Standard Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Furnishings,14.82,3,0.0,6.2244
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,310.88,2,0.2,23.316
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,853.092,6,0.4,-227.4912
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,21.88,5,0.2,6.2905
+Second Class,Consumer,United States,Seattle,Washington,98115,West,Furniture,Tables,515.88,6,0.0,113.4936
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Tables,765.625,7,0.5,-566.5625
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Bookcases,307.666,2,0.15,-14.4784
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,35.92,4,0.0,15.0864
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,39.76,8,0.0,12.3256
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Bookcases,359.058,3,0.3,-71.8116
+Second Class,Corporate,United States,Dublin,Ohio,43017,East,Furniture,Tables,1048.35,5,0.4,-69.89
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,7.168,2,0.2,0.9856
+Standard Class,Home Office,United States,San Antonio,Texas,78207,Central,Furniture,Tables,206.962,2,0.3,-32.5226
+First Class,Consumer,United States,Oakland,California,94601,West,Furniture,Furnishings,9.46,2,0.0,3.6894
+Standard Class,Consumer,United States,San Diego,California,92105,West,Furniture,Bookcases,411.332,4,0.15,-4.8392
+Standard Class,Consumer,United States,San Diego,California,92105,West,Furniture,Bookcases,293.199,3,0.15,-20.6964
+Standard Class,Home Office,United States,Suffolk,Virginia,23434,South,Furniture,Furnishings,109.8,9,0.0,46.116
+Standard Class,Consumer,United States,San Jose,California,95123,West,Furniture,Furnishings,215.65,5,0.0,73.321
+Standard Class,Home Office,United States,Auburn,Washington,98002,West,Furniture,Furnishings,4.18,1,0.0,1.5048
+Standard Class,Corporate,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,16.156,7,0.6,-12.117
+Second Class,Consumer,United States,Harrisonburg,Virginia,22801,South,Furniture,Tables,1441.3,7,0.0,245.021
+Standard Class,Consumer,United States,Newark,Ohio,43055,East,Furniture,Furnishings,77.6,5,0.2,28.13
+Standard Class,Consumer,United States,Newark,Ohio,43055,East,Furniture,Furnishings,4.656,2,0.2,1.5714
+Standard Class,Corporate,United States,Los Angeles,California,90045,West,Furniture,Tables,170.136,3,0.2,-8.5068
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Furnishings,29.32,2,0.6,-24.189
+Standard Class,Consumer,United States,Redmond,Oregon,97756,West,Furniture,Furnishings,11.84,4,0.2,3.108
+Standard Class,Consumer,United States,Redmond,Oregon,97756,West,Furniture,Furnishings,22.784,1,0.2,4.8416
+Same Day,Home Office,United States,Muskogee,Oklahoma,74403,Central,Furniture,Tables,262.11,1,0.0,62.9064
+Standard Class,Corporate,United States,Charlotte,North Carolina,28205,South,Furniture,Furnishings,44.128,4,0.2,12.1352
+Second Class,Corporate,United States,San Antonio,Texas,78207,Central,Furniture,Furnishings,40.784,2,0.6,-30.588
+Second Class,Home Office,United States,Washington,District of Columbia,20016,East,Furniture,Furnishings,37.68,2,0.0,15.8256
+First Class,Consumer,United States,New York City,New York,10009,East,Furniture,Bookcases,257.568,2,0.2,-28.9764
+Standard Class,Corporate,United States,Aurora,Colorado,80013,West,Furniture,Tables,727.45,5,0.5,-465.568
+Standard Class,Corporate,United States,Aurora,Colorado,80013,West,Furniture,Furnishings,24.96,3,0.2,4.368
+First Class,Corporate,United States,Henderson,Nevada,89015,West,Furniture,Furnishings,196.45,5,0.0,70.722
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Furniture,Tables,272.848,1,0.2,27.2848
+Standard Class,Consumer,United States,Spokane,Washington,99207,West,Furniture,Tables,70.98,1,0.0,20.5842
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Furniture,Bookcases,176.784,1,0.2,-22.098
+Second Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,31.56,3,0.0,10.4148
+First Class,Consumer,United States,Fairfield,Ohio,45014,East,Furniture,Tables,409.59,3,0.4,-122.877
+Second Class,Consumer,United States,Miami,Florida,33178,South,Furniture,Tables,174.0585,3,0.45,-110.7645
+First Class,Corporate,United States,Los Angeles,California,90008,West,Furniture,Furnishings,136.92,4,0.0,41.076
+Standard Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Furnishings,18.96,2,0.0,8.532
+Second Class,Consumer,United States,Lafayette,Louisiana,70506,South,Furniture,Bookcases,145.74,3,0.0,23.3184
+Second Class,Consumer,United States,Lafayette,Louisiana,70506,South,Furniture,Furnishings,15.4,5,0.0,7.392
+Second Class,Home Office,United States,San Francisco,California,94109,West,Furniture,Furnishings,14.73,3,0.0,4.8609
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,11.54,2,0.0,3.462
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Tables,254.526,1,0.4,-93.3262
+Second Class,Corporate,United States,Brentwood,California,94513,West,Furniture,Furnishings,23.88,3,0.0,10.5072
+Standard Class,Consumer,United States,Springfield,Missouri,65807,Central,Furniture,Tables,1024.38,7,0.0,215.1198
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Furnishings,8.752,4,0.6,-3.7196
+First Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Bookcases,183.372,2,0.3,-36.6744
+First Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Bookcases,141.96,2,0.0,39.7488
+Standard Class,Home Office,United States,Peoria,Arizona,85345,West,Furniture,Furnishings,75.36,5,0.2,20.724
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,289.8,7,0.2,36.225
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,25.344,6,0.2,3.4848
+Standard Class,Consumer,United States,Richmond,Indiana,47374,Central,Furniture,Furnishings,17.31,3,0.0,5.193
+First Class,Consumer,United States,Detroit,Michigan,48227,Central,Furniture,Tables,411.8,2,0.0,70.006
+Standard Class,Consumer,United States,Pomona,California,91767,West,Furniture,Tables,710.832,3,0.2,-97.7394
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,58.2,3,0.0,28.518
+Standard Class,Consumer,United States,Phoenix,Arizona,85023,West,Furniture,Furnishings,7.712,2,0.2,1.7352
+Standard Class,Consumer,United States,Wilmington,Delaware,19805,East,Furniture,Tables,310.443,3,0.3,-48.7839
+Same Day,Consumer,United States,Redlands,California,92374,West,Furniture,Bookcases,425.833,1,0.15,20.0392
+Second Class,Consumer,United States,Rochester,New York,14609,East,Furniture,Tables,209.67,1,0.4,-13.978
+Second Class,Home Office,United States,Lansing,Michigan,48911,Central,Furniture,Bookcases,241.96,2,0.0,41.1332
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,64.944,3,0.2,6.4944
+Second Class,Corporate,United States,Dover,New Hampshire,3820,East,Furniture,Furnishings,139.86,7,0.0,60.1398
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Furniture,Furnishings,14.76,5,0.6,-11.439
+Standard Class,Corporate,United States,Long Beach,New York,11561,East,Furniture,Tables,991.764,3,0.4,-347.1174
+Standard Class,Consumer,United States,Concord,California,94521,West,Furniture,Furnishings,43.31,1,0.0,4.331
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Furniture,Furnishings,22.608,3,0.6,-10.1736
+Same Day,Consumer,United States,Cincinnati,Ohio,45231,East,Furniture,Furnishings,79.384,1,0.2,29.769
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Furniture,Furnishings,139.92,5,0.6,-150.414
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,63.68,8,0.0,28.0192
+Standard Class,Consumer,United States,Columbus,Indiana,47201,Central,Furniture,Furnishings,121.3,2,0.0,25.473
+Standard Class,Consumer,United States,Little Rock,Arkansas,72209,South,Furniture,Furnishings,22.2,6,0.0,9.102
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,Furniture,Furnishings,191.82,3,0.0,74.8098
+Standard Class,Consumer,United States,Lancaster,Pennsylvania,17602,East,Furniture,Furnishings,20.104,1,0.2,1.7591
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,27.42,1,0.0,11.2422
+Second Class,Consumer,United States,Littleton,Colorado,80122,West,Furniture,Bookcases,72.294,1,0.7,-98.8018
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,330.588,1,0.4,-115.7058
+Standard Class,Consumer,United States,La Porte,Indiana,46350,Central,Furniture,Furnishings,526.45,5,0.0,31.587
+Standard Class,Home Office,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,44.4,2,0.6,-52.17
+Standard Class,Corporate,United States,Bangor,Maine,4401,East,Furniture,Furnishings,109.48,2,0.0,33.9388
+First Class,Consumer,United States,Arlington,Virginia,22204,South,Furniture,Bookcases,359.97,3,0.0,79.1934
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,435.26,7,0.0,95.7572
+Second Class,Corporate,United States,Los Angeles,California,90036,West,Furniture,Tables,143.432,1,0.2,3.5858
+Standard Class,Consumer,United States,Southaven,Mississippi,38671,South,Furniture,Tables,85.98,1,0.0,22.3548
+First Class,Consumer,United States,Seattle,Washington,98115,West,Furniture,Bookcases,199.98,2,0.0,37.9962
+First Class,Corporate,United States,Seattle,Washington,98115,West,Furniture,Tables,892.98,2,0.0,80.3682
+Standard Class,Corporate,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,595.38,6,0.0,297.69
+Standard Class,Corporate,United States,Middletown,Connecticut,6457,East,Furniture,Furnishings,181.95,3,0.0,38.2095
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,259.7,5,0.0,106.477
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,Furniture,Bookcases,141.372,2,0.3,-14.1372
+Second Class,Corporate,United States,New York City,New York,10035,East,Furniture,Bookcases,46.384,1,0.2,1.1596
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,547.136,4,0.2,-68.392
+First Class,Home Office,United States,Franklin,Massachusetts,2038,East,Furniture,Furnishings,63.2,5,0.0,23.384
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Tables,557.585,5,0.3,0.0
+First Class,Corporate,United States,San Francisco,California,94122,West,Furniture,Bookcases,1552.831,7,0.15,200.9546
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,1579.746,7,0.4,-447.5947
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,1071.576,4,0.4,-553.6476
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,613.908,3,0.4,-122.7816
+Standard Class,Home Office,United States,Waynesboro,Virginia,22980,South,Furniture,Furnishings,127.88,2,0.0,40.9216
+Standard Class,Corporate,United States,Fairfield,Ohio,45014,East,Furniture,Furnishings,532.704,6,0.2,-26.6352
+Second Class,Corporate,United States,Aurora,Illinois,60505,Central,Furniture,Furnishings,60.288,8,0.6,-27.1296
+Standard Class,Home Office,United States,Lorain,Ohio,44052,East,Furniture,Furnishings,54.712,7,0.2,11.6263
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,113.92,4,0.0,42.1504
+Standard Class,Corporate,United States,Huntsville,Texas,77340,Central,Furniture,Bookcases,956.6648,7,0.32,-225.0976
+First Class,Home Office,United States,San Francisco,California,94122,West,Furniture,Furnishings,211.84,8,0.0,76.2624
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Tables,629.064,3,0.2,31.4532
+Standard Class,Home Office,United States,Holyoke,Massachusetts,1040,East,Furniture,Bookcases,301.96,2,0.0,60.392
+Standard Class,Consumer,United States,Fairfield,Ohio,45014,East,Furniture,Tables,273.06,2,0.4,-104.673
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Furniture,Furnishings,12.544,7,0.6,-9.0944
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Furniture,Furnishings,7.4,2,0.0,3.034
+Standard Class,Consumer,United States,Farmington,New Mexico,87401,West,Furniture,Furnishings,545.85,9,0.0,114.6285
+Second Class,Consumer,United States,Louisville,Colorado,80027,West,Furniture,Tables,145.98,2,0.5,-99.2664
+Standard Class,Consumer,United States,Tampa,Florida,33614,South,Furniture,Furnishings,7.904,2,0.2,2.1736
+Standard Class,Consumer,United States,Passaic,New Jersey,7055,East,Furniture,Tables,174.286,2,0.3,-19.9184
+Standard Class,Consumer,United States,Fayetteville,North Carolina,28314,South,Furniture,Furnishings,14.272,8,0.2,4.2816
+Standard Class,Consumer,United States,Fayetteville,North Carolina,28314,South,Furniture,Bookcases,451.136,4,0.2,-67.6704
+Second Class,Corporate,United States,Los Angeles,California,90036,West,Furniture,Tables,1322.352,3,0.2,-99.1764
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Tables,1137.75,5,0.0,250.305
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Tables,300.93,5,0.3,-34.392
+Second Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,77.92,8,0.0,34.2848
+Standard Class,Corporate,United States,Westfield,New Jersey,7090,East,Furniture,Furnishings,129.93,3,0.0,12.993
+Standard Class,Corporate,United States,Scottsdale,Arizona,85254,West,Furniture,Furnishings,111.888,7,0.2,22.3776
+Standard Class,Home Office,United States,Malden,Massachusetts,2148,East,Furniture,Bookcases,173.94,3,0.0,13.9152
+Standard Class,Consumer,United States,San Jose,California,95123,West,Furniture,Bookcases,102.833,1,0.15,-6.049
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Furnishings,821.88,6,0.0,213.6888
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Furniture,Furnishings,51.712,8,0.6,-32.32
+Standard Class,Consumer,United States,Orem,Utah,84057,West,Furniture,Bookcases,1406.86,7,0.0,140.686
+Second Class,Consumer,United States,Bellingham,Washington,98226,West,Furniture,Tables,2665.62,9,0.0,239.9058
+Standard Class,Home Office,United States,Lafayette,Indiana,47905,Central,Furniture,Furnishings,526.45,5,0.0,31.587
+Standard Class,Home Office,United States,Alexandria,Virginia,22304,South,Furniture,Furnishings,62.82,3,0.0,30.7818
+Standard Class,Home Office,United States,Alexandria,Virginia,22304,South,Furniture,Furnishings,12.42,3,0.0,4.4712
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,22.23,1,0.0,9.7812
+Standard Class,Consumer,United States,Wheeling,Illinois,60090,Central,Furniture,Furnishings,14.136,2,0.6,-7.7748
+Standard Class,Consumer,United States,Wheeling,Illinois,60090,Central,Furniture,Tables,601.47,3,0.5,-300.735
+Same Day,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,136.784,1,0.2,5.1294
+Same Day,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,61.12,4,0.0,20.7808
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Furniture,Tables,1218.735,5,0.3,-121.8735
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Furniture,Furnishings,6.096,3,0.6,-3.9624
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Furnishings,39.96,2,0.0,17.1828
+Second Class,Corporate,United States,Fayetteville,North Carolina,28314,South,Furniture,Furnishings,4.928,2,0.2,0.7392
+Second Class,Home Office,United States,Raleigh,North Carolina,27604,South,Furniture,Furnishings,18.624,8,0.2,6.2856
+Second Class,Consumer,United States,Tulsa,Oklahoma,74133,Central,Furniture,Furnishings,57.69,3,0.0,23.6529
+Second Class,Consumer,United States,Tulsa,Oklahoma,74133,Central,Furniture,Furnishings,821.88,6,0.0,213.6888
+Standard Class,Corporate,United States,Hesperia,California,92345,West,Furniture,Bookcases,424.9575,5,0.15,19.998
+Second Class,Corporate,United States,Provo,Utah,84604,West,Furniture,Bookcases,1292.94,3,0.0,77.5764
+First Class,Consumer,United States,Memphis,Tennessee,38109,South,Furniture,Tables,370.62,3,0.4,-142.071
+Standard Class,Corporate,United States,Seattle,Washington,98115,West,Furniture,Furnishings,109.9,5,0.0,37.366
+Standard Class,Consumer,United States,Hialeah,Florida,33012,South,Furniture,Furnishings,15.384,1,0.2,4.0383
+Standard Class,Home Office,United States,Jacksonville,Florida,32216,South,Furniture,Furnishings,30.768,2,0.2,8.0766
+Standard Class,Home Office,United States,Jacksonville,Florida,32216,South,Furniture,Furnishings,122.352,3,0.2,15.294
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Furniture,Furnishings,227.36,7,0.0,81.8496
+First Class,Corporate,United States,Lakewood,Ohio,44107,East,Furniture,Furnishings,45.888,4,0.2,9.1776
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Furnishings,23.976,3,0.6,-14.3856
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,350.352,4,0.4,-140.1408
+Standard Class,Consumer,United States,Seattle,Washington,98105,West,Furniture,Furnishings,107.53,1,0.0,21.506
+Standard Class,Consumer,United States,Newark,Delaware,19711,East,Furniture,Bookcases,299.97,3,0.0,56.9943
+Standard Class,Consumer,United States,San Diego,California,92037,West,Furniture,Furnishings,35.34,2,0.0,13.4292
+Second Class,Corporate,United States,San Francisco,California,94122,West,Furniture,Furnishings,257.64,6,0.0,100.4796
+Standard Class,Consumer,United States,Franklin,Massachusetts,2038,East,Furniture,Tables,700.056,3,0.3,-130.0104
+Standard Class,Home Office,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,76.92,4,0.0,31.5372
+First Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Furniture,Furnishings,19.104,3,0.2,5.7312
+Second Class,Consumer,United States,Bakersfield,California,93309,West,Furniture,Bookcases,195.466,2,0.15,-13.7976
+Standard Class,Corporate,United States,Pompano Beach,Florida,33068,South,Furniture,Furnishings,23.68,8,0.2,6.216
+Standard Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Furniture,Furnishings,58.36,5,0.6,-24.803
+Standard Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Furniture,Furnishings,39.96,5,0.6,-23.976
+Standard Class,Corporate,United States,Redondo Beach,California,90278,West,Furniture,Bookcases,308.499,3,0.15,-18.147
+Standard Class,Consumer,United States,Las Cruces,New Mexico,88001,West,Furniture,Furnishings,41.37,3,0.0,17.3754
+Second Class,Consumer,United States,Seattle,Washington,98115,West,Furniture,Bookcases,704.9,5,0.0,56.392
+Second Class,Home Office,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,185.58,6,0.0,76.0878
+Second Class,Home Office,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Tables,214.11,3,0.0,36.3987
+Second Class,Home Office,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Tables,653.55,3,0.0,111.1035
+Standard Class,Home Office,United States,Franklin,Massachusetts,2038,East,Furniture,Furnishings,124.36,2,0.0,27.3592
+First Class,Consumer,United States,Encinitas,California,92024,West,Furniture,Tables,298.776,3,0.2,7.4694
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Bookcases,300.5328,2,0.32,-97.2312
+Standard Class,Corporate,United States,Roswell,Georgia,30076,South,Furniture,Furnishings,56.28,6,0.0,15.7584
+Second Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Furnishings,14.98,1,0.0,6.8908
+Second Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Furnishings,20.32,4,0.0,6.9088
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Furniture,Bookcases,1628.82,9,0.0,374.6286
+Standard Class,Consumer,United States,Saint Petersburg,Florida,33710,South,Furniture,Furnishings,17.088,2,0.2,1.068
+Second Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Furnishings,6.96,4,0.0,2.2272
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Furniture,Furnishings,69.08,11,0.0,29.0136
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,14.368,2,0.2,3.9512
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,70.448,7,0.2,12.3284
+First Class,Consumer,United States,Watertown,New York,13601,East,Furniture,Furnishings,70.71,1,0.0,4.9497
+Second Class,Consumer,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,18.84,3,0.0,7.9128
+Standard Class,Home Office,United States,Saginaw,Michigan,48601,Central,Furniture,Furnishings,19.76,4,0.0,8.2992
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Furniture,Furnishings,18.7,1,0.0,7.106
+First Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,38.29,7,0.0,16.4647
+Standard Class,Home Office,United States,San Diego,California,92024,West,Furniture,Furnishings,26.25,3,0.0,11.025
+Same Day,Home Office,United States,Glendale,Arizona,85301,West,Furniture,Furnishings,113.568,2,0.2,-5.6784
+Second Class,Corporate,United States,Oceanside,California,92054,West,Furniture,Furnishings,18.96,2,0.0,7.584
+Standard Class,Consumer,United States,Skokie,Illinois,60076,Central,Furniture,Furnishings,32.952,6,0.6,-19.7712
+Second Class,Consumer,United States,Fayetteville,North Carolina,28314,South,Furniture,Furnishings,28.272,2,0.2,6.3612
+Standard Class,Consumer,United States,Allen,Texas,75002,Central,Furniture,Tables,244.006,2,0.3,-31.3722
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,43.296,2,0.2,4.3296
+Second Class,Consumer,United States,Springfield,Oregon,97477,West,Furniture,Tables,275.49,1,0.5,-170.8038
+Standard Class,Home Office,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,24.96,4,0.0,6.24
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,3.984,1,0.2,0.6474
+First Class,Consumer,United States,Murray,Kentucky,42071,South,Furniture,Furnishings,191.82,3,0.0,74.8098
+Standard Class,Home Office,United States,New York City,New York,10035,East,Furniture,Tables,344.22,2,0.4,-103.266
+Standard Class,Home Office,United States,Pharr,Texas,78577,Central,Furniture,Furnishings,22.608,3,0.6,-10.1736
+Standard Class,Consumer,United States,West Jordan,Utah,84084,West,Furniture,Furnishings,66.69,3,0.0,22.0077
+Standard Class,Consumer,United States,Brownsville,Texas,78521,Central,Furniture,Bookcases,327.7328,2,0.32,-14.4588
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,254.352,3,0.2,0.0
+Standard Class,Corporate,United States,Lincoln Park,Michigan,48146,Central,Furniture,Bookcases,194.32,4,0.0,31.0912
+Standard Class,Consumer,United States,Monroe,Louisiana,71203,South,Furniture,Furnishings,29.16,2,0.0,10.7892
+Standard Class,Corporate,United States,Pasadena,California,91104,West,Furniture,Tables,171.288,3,0.2,-6.4233
+Standard Class,Consumer,United States,Chattanooga,Tennessee,37421,South,Furniture,Furnishings,16.72,5,0.2,3.344
+First Class,Home Office,United States,Columbus,Georgia,31907,South,Furniture,Tables,411.8,2,0.0,70.006
+Standard Class,Home Office,United States,Meridian,Idaho,83642,West,Furniture,Furnishings,41.96,2,0.0,2.9372
+Second Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Furnishings,30.56,2,0.0,10.3904
+Second Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Tables,24.368,2,0.2,-3.3506
+Standard Class,Corporate,United States,Newark,Delaware,19711,East,Furniture,Furnishings,124.41,3,0.0,14.9292
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Bookcases,120.666,2,0.15,18.4548
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,16.74,5,0.6,-14.229
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Furnishings,3.984,2,0.6,-2.6892
+Second Class,Home Office,United States,Henderson,Kentucky,42420,South,Furniture,Furnishings,61.0,5,0.0,25.62
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Furniture,Bookcases,220.2656,4,0.32,-42.1096
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,242.352,3,0.2,9.0882
+Second Class,Corporate,United States,Providence,Rhode Island,2908,East,Furniture,Bookcases,220.98,1,0.0,50.8254
+First Class,Corporate,United States,Lakeland,Florida,33801,South,Furniture,Furnishings,48.672,3,0.2,7.3008
+First Class,Home Office,United States,Los Angeles,California,90049,West,Furniture,Furnishings,44.46,2,0.0,14.6718
+First Class,Corporate,United States,Oceanside,New York,11572,East,Furniture,Furnishings,13.28,2,0.0,6.3744
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Furniture,Furnishings,22.848,3,0.6,-17.7072
+First Class,Consumer,United States,Newark,Ohio,43055,East,Furniture,Furnishings,262.864,7,0.2,69.0018
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Tables,284.364,2,0.4,-75.8304
+First Class,Consumer,United States,Lansing,Michigan,48911,Central,Furniture,Furnishings,67.0,5,0.0,32.16
+Standard Class,Consumer,United States,Fort Collins,Colorado,80525,West,Furniture,Bookcases,180.588,2,0.7,-240.784
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,20.94,3,0.0,6.0726
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,58.68,2,0.0,18.1908
+Second Class,Consumer,United States,Akron,Ohio,44312,East,Furniture,Furnishings,149.232,3,0.2,3.7308
+Standard Class,Consumer,United States,San Diego,California,92037,West,Furniture,Furnishings,39.88,2,0.0,11.1664
+Standard Class,Consumer,United States,San Diego,California,92037,West,Furniture,Furnishings,53.2,5,0.0,14.896
+Second Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,114.9,5,0.0,39.066
+Same Day,Consumer,United States,Fairfield,Connecticut,6824,East,Furniture,Tables,181.797,1,0.3,-15.5826
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Furniture,Furnishings,7.068,3,0.6,-2.8272
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,60.312,3,0.2,5.2773
+Second Class,Corporate,United States,Franklin,Tennessee,37064,South,Furniture,Tables,79.974,3,0.4,-29.3238
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,15.24,3,0.0,5.1816
+Standard Class,Consumer,United States,San Diego,California,92024,West,Furniture,Furnishings,3.48,2,0.0,1.1136
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,60.312,3,0.2,5.2773
+Second Class,Corporate,United States,Gulfport,Mississippi,39503,South,Furniture,Furnishings,86.45,7,0.0,38.038
+Second Class,Corporate,United States,Round Rock,Texas,78664,Central,Furniture,Furnishings,341.96,5,0.6,-427.45
+Standard Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,128.82,3,0.0,50.2398
+Standard Class,Home Office,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,2.032,1,0.6,-1.3208
+First Class,Consumer,United States,Oakland,California,94601,West,Furniture,Furnishings,129.92,4,0.0,10.3936
+First Class,Consumer,United States,Oakland,California,94601,West,Furniture,Tables,568.728,3,0.2,28.4364
+Second Class,Consumer,United States,Quincy,Massachusetts,2169,East,Furniture,Tables,244.615,1,0.3,20.967
+Standard Class,Corporate,United States,San Diego,California,92037,West,Furniture,Bookcases,435.999,3,0.15,20.5176
+Standard Class,Corporate,United States,Bristol,Connecticut,6010,East,Furniture,Tables,70.56,1,0.3,-4.032
+Second Class,Home Office,United States,New York City,New York,10024,East,Furniture,Furnishings,35.28,3,0.0,11.9952
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Furnishings,9.552,3,0.6,-3.8208
+First Class,Consumer,United States,Mission Viejo,California,92691,West,Furniture,Bookcases,290.666,2,0.15,3.4196
+Standard Class,Consumer,United States,Las Vegas,Nevada,89115,West,Furniture,Bookcases,141.96,2,0.0,41.1684
+Standard Class,Consumer,United States,Hempstead,New York,11550,East,Furniture,Furnishings,28.44,3,0.0,11.376
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,24.048,9,0.2,7.2144
+Standard Class,Home Office,United States,Charlotte,North Carolina,28205,South,Furniture,Tables,154.764,3,0.4,-36.1116
+First Class,Corporate,United States,Tinley Park,Illinois,60477,Central,Furniture,Furnishings,22.288,7,0.6,-8.9152
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Furnishings,65.424,4,0.6,-52.3392
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,22.336,4,0.2,7.8176
+Second Class,Home Office,United States,Lancaster,Ohio,43130,East,Furniture,Tables,215.148,2,0.4,-103.9882
+First Class,Consumer,United States,Inglewood,California,90301,West,Furniture,Furnishings,128.9,2,0.0,15.468
+First Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,24.288,3,0.6,-12.7512
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,16.192,2,0.6,-8.5008
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Tables,251.006,2,0.3,-68.1302
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,22.512,3,0.2,2.2512
+Standard Class,Corporate,United States,Revere,Massachusetts,2151,East,Furniture,Bookcases,361.96,2,0.0,83.2508
+Standard Class,Consumer,United States,Jackson,Mississippi,39212,South,Furniture,Furnishings,133.38,6,0.0,58.6872
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,16.74,2,0.0,4.3524
+Standard Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Tables,1421.664,6,0.2,-195.4788
+First Class,Consumer,United States,Mobile,Alabama,36608,South,Furniture,Furnishings,8.96,2,0.0,2.7776
+First Class,Corporate,United States,Springfield,Virginia,22153,South,Furniture,Furnishings,29.12,4,0.0,12.5216
+First Class,Corporate,United States,Springfield,Virginia,22153,South,Furniture,Tables,1202.94,3,0.0,300.735
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,Furniture,Tables,513.024,2,0.2,12.8256
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Furniture,Bookcases,193.0656,4,0.32,-19.8744
+First Class,Corporate,United States,Chicago,Illinois,60653,Central,Furniture,Bookcases,825.174,9,0.3,-117.882
+First Class,Home Office,United States,Aurora,Illinois,60505,Central,Furniture,Tables,796.425,7,0.5,-525.6405
+First Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,5.352,3,0.2,1.6056
+Second Class,Home Office,United States,Dallas,Texas,75220,Central,Furniture,Furnishings,15.008,4,0.6,-12.0064
+Standard Class,Consumer,United States,Jackson,Mississippi,39212,South,Furniture,Tables,2430.08,8,0.0,388.8128
+Standard Class,Corporate,United States,Jackson,Michigan,49201,Central,Furniture,Tables,801.96,2,0.0,200.49
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,17.472,3,0.2,5.0232
+Standard Class,Home Office,United States,Columbia,Maryland,21044,East,Furniture,Furnishings,25.16,2,0.0,8.5544
+Standard Class,Home Office,United States,Columbia,Maryland,21044,East,Furniture,Furnishings,91.92,4,0.0,31.2528
+First Class,Corporate,United States,San Antonio,Texas,78207,Central,Furniture,Tables,718.116,6,0.3,-71.8116
+Standard Class,Consumer,United States,Macon,Georgia,31204,South,Furniture,Furnishings,142.4,5,0.0,52.688
+Standard Class,Home Office,United States,Springfield,Ohio,45503,East,Furniture,Furnishings,148.288,7,0.2,29.6576
+Standard Class,Corporate,United States,Plantation,Florida,33317,South,Furniture,Furnishings,30.88,4,0.2,3.86
+Standard Class,Corporate,United States,Plantation,Florida,33317,South,Furniture,Furnishings,6.408,3,0.2,1.4418
+Standard Class,Corporate,United States,San Diego,California,92105,West,Furniture,Furnishings,44.46,2,0.0,14.6718
+Standard Class,Consumer,United States,Clinton,Maryland,20735,East,Furniture,Furnishings,181.96,2,0.0,20.0156
+Second Class,Corporate,United States,Denver,Colorado,80219,West,Furniture,Furnishings,15.488,4,0.2,3.6784
+Second Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Furnishings,141.96,2,0.0,22.7136
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Furniture,Furnishings,37.93,1,0.0,6.8274
+Second Class,Corporate,United States,Toledo,Ohio,43615,East,Furniture,Furnishings,15.168,2,0.2,3.792
+Standard Class,Corporate,United States,Mesquite,Texas,75150,Central,Furniture,Furnishings,6.368,2,0.6,-2.5472
+First Class,Corporate,United States,Los Angeles,California,90045,West,Furniture,Tables,510.24,3,0.2,6.378
+First Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Furnishings,162.6,3,0.0,34.146
+Standard Class,Home Office,United States,Jackson,Mississippi,39212,South,Furniture,Furnishings,18.92,4,0.0,7.3788
+Second Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,71.97,3,0.0,16.5531
+Second Class,Corporate,United States,Inglewood,California,90301,West,Furniture,Furnishings,198.46,2,0.0,99.23
+Standard Class,Corporate,United States,Los Angeles,California,90049,West,Furniture,Furnishings,24.4,2,0.0,10.248
+Second Class,Corporate,United States,West Allis,Wisconsin,53214,Central,Furniture,Bookcases,241.96,2,0.0,24.196
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Tables,99.372,2,0.3,-1.4196
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Tables,2003.52,6,0.2,-325.572
+Standard Class,Home Office,United States,Chula Vista,California,91911,West,Furniture,Furnishings,665.88,6,0.0,106.5408
+Standard Class,Consumer,United States,San Diego,California,92037,West,Furniture,Tables,333.0,3,0.2,-16.65
+First Class,Corporate,United States,Greensboro,North Carolina,27405,South,Furniture,Tables,523.764,3,0.4,-192.0468
+Standard Class,Consumer,United States,Mobile,Alabama,36608,South,Furniture,Tables,801.96,2,0.0,200.49
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,314.352,3,0.2,-15.7176
+Standard Class,Consumer,United States,Dover,Delaware,19901,East,Furniture,Furnishings,76.14,3,0.0,26.649
+Standard Class,Consumer,United States,North Las Vegas,Nevada,89031,West,Furniture,Furnishings,134.01,9,0.0,36.1827
+First Class,Corporate,United States,Los Angeles,California,90049,West,Furniture,Bookcases,616.998,6,0.15,-36.294
+Same Day,Home Office,United States,Quincy,Massachusetts,2169,East,Furniture,Furnishings,85.3,2,0.0,14.501
+Standard Class,Home Office,United States,San Francisco,California,94122,West,Furniture,Furnishings,4.95,1,0.0,2.178
+Standard Class,Home Office,United States,Chicago,Illinois,60653,Central,Furniture,Tables,480.96,3,0.5,-269.3376
+Standard Class,Consumer,United States,Champaign,Illinois,61821,Central,Furniture,Furnishings,151.96,5,0.6,-182.352
+Standard Class,Consumer,United States,Gilbert,Arizona,85234,West,Furniture,Furnishings,364.704,6,0.2,-36.4704
+Standard Class,Consumer,United States,Gilbert,Arizona,85234,West,Furniture,Furnishings,40.256,4,0.2,11.0704
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,547.136,4,0.2,-68.392
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,7.584,1,0.2,2.37
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Bookcases,352.45,5,0.5,-211.47
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,9.82,2,0.0,3.2406
+Standard Class,Consumer,United States,Phoenix,Arizona,85023,West,Furniture,Tables,801.6,5,0.5,-448.896
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Furnishings,35.34,2,0.0,13.4292
+First Class,Consumer,United States,Harlingen,Texas,78550,Central,Furniture,Bookcases,241.332,5,0.32,-14.196
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,14.56,2,0.0,6.2608
+Standard Class,Consumer,United States,Detroit,Michigan,48205,Central,Furniture,Furnishings,5.47,1,0.0,2.3521
+Standard Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Furnishings,22.14,3,0.0,6.4206
+Standard Class,Consumer,United States,Nashville,Tennessee,37211,South,Furniture,Furnishings,44.76,3,0.2,14.547
+First Class,Home Office,United States,Los Angeles,California,90045,West,Furniture,Furnishings,44.67,3,0.0,12.0609
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,414.0,8,0.0,124.2
+First Class,Consumer,United States,Richmond,Virginia,23223,South,Furniture,Furnishings,39.92,4,0.0,11.1776
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,53.316,2,0.4,-19.5492
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Furnishings,22.77,3,0.0,9.7911
+Standard Class,Consumer,United States,Lakewood,California,90712,West,Furniture,Bookcases,257.499,3,0.15,24.2352
+Standard Class,Corporate,United States,Columbia,Tennessee,38401,South,Furniture,Furnishings,79.12,5,0.2,13.846
+Second Class,Consumer,United States,Woonsocket,Rhode Island,2895,East,Furniture,Furnishings,52.96,2,0.0,20.1248
+Standard Class,Corporate,United States,Tampa,Florida,33614,South,Furniture,Furnishings,63.552,3,0.2,14.2992
+Standard Class,Consumer,United States,Kenosha,Wisconsin,53142,Central,Furniture,Bookcases,512.94,3,0.0,97.4586
+Standard Class,Consumer,United States,Kenosha,Wisconsin,53142,Central,Furniture,Furnishings,373.08,6,0.0,82.0776
+Second Class,Corporate,United States,Port Saint Lucie,Florida,34952,South,Furniture,Bookcases,231.92,5,0.2,5.798
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Furnishings,63.47,11,0.0,19.041
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Tables,637.896,3,0.3,-127.5792
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Furnishings,474.43,11,0.0,199.2606
+First Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Bookcases,556.665,5,0.15,6.549
+Standard Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Furnishings,24.9,5,0.0,8.217
+Standard Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Furnishings,70.56,6,0.0,23.9904
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Furnishings,204.85,5,0.0,57.358
+Second Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,276.69,3,0.0,49.8042
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Tables,409.272,2,0.4,-81.8544
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Tables,67.176,1,0.4,-20.1528
+First Class,Consumer,United States,Dallas,Texas,75081,Central,Furniture,Bookcases,156.3728,2,0.32,-52.8908
+Standard Class,Consumer,United States,Miramar,Florida,33023,South,Furniture,Furnishings,220.064,4,0.2,55.016
+Standard Class,Consumer,United States,Miramar,Florida,33023,South,Furniture,Furnishings,339.136,4,0.2,0.0
+Standard Class,Consumer,United States,Jonesboro,Arkansas,72401,South,Furniture,Bookcases,638.82,9,0.0,172.4814
+Same Day,Home Office,United States,Fremont,Nebraska,68025,Central,Furniture,Furnishings,15.92,2,0.0,7.0048
+Same Day,Consumer,United States,New York City,New York,10011,East,Furniture,Tables,27.414,3,0.4,-14.1639
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,Furniture,Bookcases,160.98,1,0.0,20.9274
+Second Class,Consumer,United States,Jacksonville,Florida,32216,South,Furniture,Furnishings,91.032,3,0.2,-2.2758
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,79.12,5,0.2,13.846
+Standard Class,Consumer,United States,Freeport,New York,11520,East,Furniture,Furnishings,322.59,3,0.0,64.518
+First Class,Corporate,United States,Franklin,Massachusetts,2038,East,Furniture,Bookcases,81.94,1,0.0,20.485
+Standard Class,Corporate,United States,Boise,Idaho,83704,West,Furniture,Tables,696.42,2,0.0,160.1766
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,24.7,5,0.0,10.374
+Second Class,Consumer,United States,Cranston,Rhode Island,2920,East,Furniture,Furnishings,14.76,2,0.0,4.2804
+Second Class,Consumer,United States,Cranston,Rhode Island,2920,East,Furniture,Furnishings,17.67,3,0.0,7.7748
+Second Class,Consumer,United States,Cranston,Rhode Island,2920,East,Furniture,Tables,385.686,1,0.3,-60.6078
+First Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Bookcases,482.664,8,0.15,85.176
+Second Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Bookcases,174.42,3,0.0,41.8608
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Furniture,Furnishings,94.428,3,0.6,-42.4926
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Furniture,Furnishings,332.028,9,0.6,-348.6294
+Standard Class,Home Office,United States,Baltimore,Maryland,21215,East,Furniture,Furnishings,1049.2,5,0.0,272.792
+Standard Class,Home Office,United States,Baltimore,Maryland,21215,East,Furniture,Furnishings,20.9,5,0.0,7.524
+First Class,Consumer,United States,Freeport,Illinois,61032,Central,Furniture,Furnishings,10.476,3,0.6,-6.8094
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Tables,863.128,8,0.3,-160.2952
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Bookcases,956.6648,7,0.32,-225.0976
+Second Class,Consumer,United States,Seattle,Washington,98115,West,Furniture,Tables,871.4,4,0.0,148.138
+Standard Class,Corporate,United States,Jackson,Tennessee,38301,South,Furniture,Furnishings,692.472,11,0.2,190.4298
+Second Class,Corporate,United States,Baltimore,Maryland,21215,East,Furniture,Furnishings,207.76,4,0.0,85.1816
+Standard Class,Corporate,United States,Lakewood,New Jersey,8701,East,Furniture,Furnishings,9.96,2,0.0,3.2868
+Second Class,Corporate,United States,Port Arthur,Texas,77642,Central,Furniture,Bookcases,246.1328,2,0.32,-76.0116
+Second Class,Home Office,United States,Los Angeles,California,90004,West,Furniture,Tables,896.328,9,0.2,22.4082
+Standard Class,Corporate,United States,Redmond,Oregon,97756,West,Furniture,Tables,177.225,5,0.5,-120.513
+Standard Class,Consumer,United States,Citrus Heights,California,95610,West,Furniture,Furnishings,129.39,3,0.0,54.3438
+Second Class,Consumer,United States,Tallahassee,Florida,32303,South,Furniture,Furnishings,2.784,2,0.2,0.4176
+Second Class,Consumer,United States,Seattle,Washington,98105,West,Furniture,Furnishings,63.92,4,0.0,3.196
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Tables,573.728,4,0.2,-64.5444
+Standard Class,Consumer,United States,Richmond,Virginia,23223,South,Furniture,Furnishings,82.38,6,0.0,25.5378
+Standard Class,Consumer,United States,Bullhead City,Arizona,86442,West,Furniture,Furnishings,14.368,2,0.2,3.9512
+Standard Class,Consumer,United States,New Rochelle,New York,10801,East,Furniture,Furnishings,60.72,3,0.0,26.1096
+Same Day,Consumer,United States,Aurora,Illinois,60505,Central,Furniture,Furnishings,77.72,1,0.6,-66.062
+Standard Class,Home Office,United States,San Gabriel,California,91776,West,Furniture,Furnishings,303.25,5,0.0,63.6825
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Tables,253.176,3,0.2,-31.647
+Standard Class,Consumer,United States,Highland Park,Illinois,60035,Central,Furniture,Bookcases,384.944,4,0.3,-126.4816
+Standard Class,Consumer,United States,Highland Park,Illinois,60035,Central,Furniture,Bookcases,913.43,5,0.3,-52.196
+First Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,183.968,2,0.2,-25.2956
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,69.008,2,0.2,12.0764
+Same Day,Consumer,United States,Columbia,Maryland,21044,East,Furniture,Furnishings,971.5,5,0.0,252.59
+Standard Class,Consumer,United States,Hamilton,Ohio,45011,East,Furniture,Furnishings,190.848,3,0.2,-21.4704
+First Class,Corporate,United States,Sandy Springs,Georgia,30328,South,Furniture,Bookcases,302.94,3,0.0,75.735
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Furnishings,24.1,5,0.0,9.158
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Tables,842.94,3,0.0,160.1586
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,12.56,2,0.0,4.0192
+First Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Furnishings,25.4,5,0.0,8.636
+First Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Bookcases,1279.165,5,0.15,225.735
+First Class,Home Office,United States,Aurora,Colorado,80013,West,Furniture,Furnishings,32.776,1,0.2,3.2776
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,321.568,2,0.2,-16.0784
+Same Day,Home Office,United States,Mentor,Ohio,44060,East,Furniture,Tables,344.22,2,0.4,-189.321
+Same Day,Home Office,United States,Mentor,Ohio,44060,East,Furniture,Furnishings,21.248,4,0.2,7.4368
+Same Day,Consumer,United States,Lawton,Oklahoma,73505,Central,Furniture,Tables,248.98,2,0.0,54.7756
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Tables,418.296,3,0.2,5.2287
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,8.128,2,0.2,1.4224
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Bookcases,917.9235,9,0.15,75.5937
+Standard Class,Home Office,United States,Los Angeles,California,90045,West,Furniture,Furnishings,23.99,1,0.0,5.5177
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Tables,171.288,3,0.2,-6.4233
+Standard Class,Corporate,United States,Springfield,Missouri,65807,Central,Furniture,Furnishings,37.3,2,0.0,17.158
+Standard Class,Corporate,United States,Richmond,Indiana,47374,Central,Furniture,Furnishings,20.32,4,0.0,6.9088
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,89.34,6,0.0,24.1218
+Standard Class,Home Office,United States,Rome,New York,13440,East,Furniture,Furnishings,39.08,4,0.0,14.4596
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Furnishings,15.84,3,0.0,4.9104
+Standard Class,Corporate,United States,Providence,Rhode Island,2908,East,Furniture,Tables,493.92,7,0.3,-28.224
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,7.76,1,0.6,-2.134
+Standard Class,Corporate,United States,Los Angeles,California,90049,West,Furniture,Tables,351.216,3,0.2,4.3902
+Second Class,Corporate,United States,Los Angeles,California,90049,West,Furniture,Furnishings,36.4,5,0.0,13.832
+Second Class,Home Office,United States,San Jose,California,95123,West,Furniture,Furnishings,76.14,3,0.0,26.649
+Standard Class,Home Office,United States,Jackson,Michigan,49201,Central,Furniture,Furnishings,33.48,4,0.0,8.7048
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,25.632,3,0.2,3.8448
+Second Class,Home Office,United States,Danville,California,94526,West,Furniture,Furnishings,25.02,3,0.0,10.5084
+Standard Class,Corporate,United States,Los Angeles,California,90004,West,Furniture,Tables,902.712,3,0.2,33.8517
+Standard Class,Consumer,United States,Oceanside,California,92054,West,Furniture,Furnishings,47.12,8,0.0,20.7328
+Standard Class,Consumer,United States,Columbia,Tennessee,38401,South,Furniture,Furnishings,14.136,3,0.2,4.2408
+Same Day,Consumer,United States,Mount Pleasant,Michigan,48858,Central,Furniture,Furnishings,17.14,2,0.0,6.1704
+Second Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,123.96,3,0.0,11.1564
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Furniture,Bookcases,586.398,6,0.15,34.494
+Standard Class,Corporate,United States,Seattle,Washington,98115,West,Furniture,Furnishings,79.92,4,0.0,34.3656
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Furniture,Bookcases,623.4648,7,0.32,-119.1918
+Standard Class,Consumer,United States,Detroit,Michigan,48205,Central,Furniture,Furnishings,272.94,3,0.0,30.0234
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,15.008,2,0.2,1.5008
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,241.92,4,0.4,-56.448
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Bookcases,163.88,4,0.5,-81.94
+First Class,Consumer,United States,Tucson,Arizona,85705,West,Furniture,Furnishings,51.968,2,0.2,10.3936
+Same Day,Consumer,United States,Detroit,Michigan,48205,Central,Furniture,Furnishings,212.13,3,0.0,14.8491
+Standard Class,Home Office,United States,Austin,Texas,78745,Central,Furniture,Furnishings,7.996,1,0.6,-6.9965
+First Class,Consumer,United States,Waterbury,Connecticut,6708,East,Furniture,Furnishings,173.24,4,0.0,17.324
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Furnishings,56.568,2,0.6,-74.9526
+Second Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Tables,521.96,2,0.0,88.7332
+Second Class,Consumer,United States,Aurora,Illinois,60505,Central,Furniture,Tables,268.935,3,0.5,-209.7693
+Second Class,Home Office,United States,New York City,New York,10009,East,Furniture,Bookcases,275.952,3,0.2,-37.9434
+Second Class,Consumer,United States,San Diego,California,92105,West,Furniture,Furnishings,19.92,3,0.0,9.5616
+Standard Class,Consumer,United States,Long Beach,California,90805,West,Furniture,Tables,35.544,1,0.2,-0.8886
+Same Day,Corporate,United States,San Francisco,California,94110,West,Furniture,Furnishings,35.28,3,0.0,11.9952
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,6.464,1,0.6,-4.04
+Standard Class,Consumer,United States,Colorado Springs,Colorado,80906,West,Furniture,Bookcases,69.576,4,0.7,-143.7904
+Standard Class,Consumer,United States,Colorado Springs,Colorado,80906,West,Furniture,Furnishings,52.416,9,0.2,15.0696
+Standard Class,Consumer,United States,Colorado Springs,Colorado,80906,West,Furniture,Furnishings,54.92,5,0.2,10.984
+Standard Class,Consumer,United States,Colorado Springs,Colorado,80906,West,Furniture,Tables,364.95,5,0.5,-248.166
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,Furniture,Furnishings,43.13,1,0.0,18.1146
+Standard Class,Corporate,United States,Jacksonville,Florida,32216,South,Furniture,Furnishings,30.192,3,0.2,8.3028
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,91.008,9,0.2,19.3392
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,48.576,3,0.2,9.7152
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,77.952,3,0.2,15.5904
+Standard Class,Home Office,United States,Henderson,Kentucky,42420,South,Furniture,Furnishings,27.58,2,0.0,11.5836
+Second Class,Consumer,United States,Oakland,California,94601,West,Furniture,Furnishings,12.54,3,0.0,4.5144
+Second Class,Consumer,United States,Oakland,California,94601,West,Furniture,Furnishings,9.24,3,0.0,4.4352
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Furnishings,77.6,4,0.0,38.024
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Furnishings,464.85,9,0.0,92.97
+Standard Class,Corporate,United States,Gaithersburg,Maryland,20877,East,Furniture,Bookcases,173.94,3,0.0,38.2668
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Tables,91.275,1,0.5,-67.5435
+Standard Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Bookcases,333.999,3,0.15,3.9294
+Standard Class,Consumer,United States,Wilmington,Delaware,19805,East,Furniture,Bookcases,283.92,4,0.0,82.3368
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,18.84,3,0.0,6.0288
+Second Class,Corporate,United States,North Las Vegas,Nevada,89031,West,Furniture,Furnishings,37.4,2,0.0,14.212
+First Class,Corporate,United States,Jacksonville,Florida,32216,South,Furniture,Furnishings,35.568,2,0.2,5.7798
+Standard Class,Corporate,United States,Memphis,Tennessee,38109,South,Furniture,Furnishings,20.32,5,0.2,3.556
+First Class,Corporate,United States,Phoenix,Arizona,85023,West,Furniture,Bookcases,209.979,7,0.7,-356.9643
+Standard Class,Consumer,United States,Toledo,Ohio,43615,East,Furniture,Furnishings,35.168,7,0.2,9.6712
+First Class,Consumer,United States,Los Angeles,California,90008,West,Furniture,Furnishings,10.11,3,0.0,3.2352
+Standard Class,Consumer,United States,San Diego,California,92037,West,Furniture,Furnishings,39.92,4,0.0,11.1776
+Second Class,Home Office,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Bookcases,687.4,5,0.0,48.118
+Standard Class,Corporate,United States,Seattle,Washington,98115,West,Furniture,Tables,653.55,3,0.0,111.1035
+First Class,Corporate,United States,Wilmington,Delaware,19805,East,Furniture,Tables,199.836,4,0.3,-37.1124
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Furnishings,467.46,9,0.0,191.6586
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Bookcases,1352.3976,9,0.32,-437.5404
+Standard Class,Consumer,United States,Minneapolis,Minnesota,55407,Central,Furniture,Furnishings,123.96,3,0.0,11.1564
+Standard Class,Consumer,United States,Burlington,North Carolina,27217,South,Furniture,Tables,1781.682,7,0.4,-653.2834
+Standard Class,Home Office,United States,Trenton,Michigan,48183,Central,Furniture,Furnishings,53.88,6,0.0,22.6296
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Tables,744.1,5,0.3,-95.67
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Tables,401.59,2,0.3,-131.951
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Bookcases,359.499,3,0.15,-29.6058
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Tables,214.95,5,0.5,-120.372
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,10.776,3,0.6,-4.8492
+Same Day,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,17.496,9,0.6,-7.4358
+Same Day,Consumer,United States,New York City,New York,10009,East,Furniture,Tables,464.292,9,0.4,-108.3348
+Standard Class,Corporate,United States,Anaheim,California,92804,West,Furniture,Furnishings,101.12,8,0.0,37.4144
+Standard Class,Corporate,United States,Oklahoma City,Oklahoma,73120,Central,Furniture,Furnishings,30.36,4,0.0,13.0548
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,86.26,2,0.0,29.3284
+Standard Class,Home Office,United States,Chandler,Arizona,85224,West,Furniture,Furnishings,8.544,4,0.2,1.9224
+First Class,Consumer,United States,Kirkwood,Missouri,63122,Central,Furniture,Furnishings,212.94,3,0.0,34.0704
+Second Class,Home Office,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,14.224,2,0.6,-10.3124
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Furniture,Bookcases,1367.84,8,0.0,259.8896
+Standard Class,Consumer,United States,Waco,Texas,76706,Central,Furniture,Bookcases,328.3992,3,0.32,-91.7586
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,Furniture,Furnishings,37.68,2,0.0,15.8256
+Second Class,Corporate,United States,Columbia,South Carolina,29203,South,Furniture,Furnishings,397.6,5,0.0,43.736
+Standard Class,Consumer,United States,Oakland,California,94601,West,Furniture,Furnishings,104.23,7,0.0,28.1421
+Standard Class,Home Office,United States,Detroit,Michigan,48234,Central,Furniture,Bookcases,212.94,3,0.0,57.4938
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Bookcases,353.568,2,0.2,-44.196
+Second Class,Consumer,United States,Fresno,California,93727,West,Furniture,Tables,697.16,5,0.2,8.7145
+Second Class,Consumer,United States,Fresno,California,93727,West,Furniture,Furnishings,30.93,1,0.0,12.6813
+First Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Tables,210.008,1,0.2,2.6251
+Standard Class,Consumer,United States,Columbia,Maryland,21044,East,Furniture,Furnishings,164.22,3,0.0,50.9082
+Standard Class,Consumer,United States,Columbia,Maryland,21044,East,Furniture,Bookcases,362.94,3,0.0,36.294
+Second Class,Corporate,United States,Los Angeles,California,90032,West,Furniture,Tables,136.464,2,0.2,15.3522
+Second Class,Corporate,United States,Bethlehem,Pennsylvania,18018,East,Furniture,Furnishings,33.568,2,0.2,-5.4548
+First Class,Home Office,United States,Houston,Texas,77036,Central,Furniture,Tables,200.795,1,0.3,-22.948
+Same Day,Consumer,United States,San Francisco,California,94110,West,Furniture,Furnishings,32.36,4,0.0,11.6496
+Same Day,Corporate,United States,Los Angeles,California,90008,West,Furniture,Furnishings,27.92,4,0.0,8.0968
+Same Day,Corporate,United States,Los Angeles,California,90008,West,Furniture,Tables,399.672,7,0.2,-14.9877
+Standard Class,Corporate,United States,Rochester,Minnesota,55901,Central,Furniture,Furnishings,6.16,2,0.0,2.9568
+First Class,Consumer,United States,Louisville,Colorado,80027,West,Furniture,Bookcases,89.991,3,0.7,-152.9847
+Standard Class,Consumer,United States,Medina,Ohio,44256,East,Furniture,Tables,51.588,1,0.4,-15.4764
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Furniture,Furnishings,14.89,1,0.0,4.0203
+Standard Class,Corporate,United States,Springfield,Virginia,22153,South,Furniture,Tables,2275.5,10,0.0,386.835
+First Class,Home Office,United States,Garland,Texas,75043,Central,Furniture,Furnishings,8.544,2,0.6,-7.476
+Standard Class,Corporate,United States,Oceanside,New York,11572,East,Furniture,Furnishings,68.95,5,0.0,28.959
+Standard Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Furnishings,64.96,2,0.0,21.4368
+First Class,Home Office,United States,Knoxville,Tennessee,37918,South,Furniture,Furnishings,11.808,2,0.2,1.3284
+First Class,Home Office,United States,Knoxville,Tennessee,37918,South,Furniture,Furnishings,9.656,1,0.2,1.5691
+First Class,Home Office,United States,Knoxville,Tennessee,37918,South,Furniture,Tables,2314.116,7,0.4,-1002.7836
+First Class,Home Office,United States,Knoxville,Tennessee,37918,South,Furniture,Furnishings,19.76,2,0.2,5.928
+Standard Class,Consumer,United States,Lakewood,California,90712,West,Furniture,Furnishings,25.08,6,0.0,9.0288
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,63.94,1,0.0,24.9366
+Standard Class,Consumer,United States,Newark,Delaware,19711,East,Furniture,Furnishings,10.68,4,0.0,4.0584
+Standard Class,Corporate,United States,Fayetteville,North Carolina,28314,South,Furniture,Bookcases,198.272,8,0.2,-32.2192
+Standard Class,Consumer,United States,Wichita,Kansas,67212,Central,Furniture,Furnishings,70.56,6,0.0,23.9904
+Standard Class,Corporate,United States,Oak Park,Michigan,48237,Central,Furniture,Furnishings,273.96,2,0.0,71.2296
+Standard Class,Corporate,United States,Oak Park,Michigan,48237,Central,Furniture,Furnishings,306.9,3,0.0,79.794
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Tables,347.361,7,0.3,-69.4722
+Standard Class,Corporate,United States,Wilmington,Delaware,19805,East,Furniture,Bookcases,1025.88,6,0.0,235.9524
+Same Day,Corporate,United States,San Francisco,California,94110,West,Furniture,Furnishings,63.2,5,0.0,23.384
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Bookcases,556.665,5,0.15,6.549
+First Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,111.9,6,0.0,51.474
+Same Day,Home Office,United States,Los Angeles,California,90036,West,Furniture,Bookcases,599.165,5,0.15,35.245
+First Class,Consumer,United States,Saint Petersburg,Florida,33710,South,Furniture,Furnishings,31.984,2,0.2,1.999
+First Class,Corporate,United States,Palm Coast,Florida,32137,South,Furniture,Furnishings,19.52,2,0.2,5.368
+First Class,Corporate,United States,Palm Coast,Florida,32137,South,Furniture,Furnishings,213.216,3,0.2,15.9912
+Standard Class,Home Office,United States,Olathe,Kansas,66062,Central,Furniture,Furnishings,40.56,2,0.0,12.9792
+Standard Class,Consumer,United States,Edmonds,Washington,98026,West,Furniture,Furnishings,68.46,2,0.0,20.538
+Second Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Tables,1478.272,8,0.2,92.392
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,9.24,3,0.0,4.4352
+First Class,Consumer,United States,Scottsdale,Arizona,85254,West,Furniture,Bookcases,181.47,5,0.7,-320.597
+Standard Class,Consumer,United States,Parker,Colorado,80134,West,Furniture,Furnishings,13.36,5,0.2,4.008
+Standard Class,Consumer,United States,Parker,Colorado,80134,West,Furniture,Bookcases,102.018,7,0.7,-183.6324
+Same Day,Home Office,United States,San Francisco,California,94122,West,Furniture,Bookcases,411.332,4,0.15,-4.8392
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,3.312,1,0.2,0.6624
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,145.9,5,0.0,62.737
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,54.768,2,0.2,6.846
+Standard Class,Corporate,United States,Tucson,Arizona,85705,West,Furniture,Tables,455.97,6,0.5,-218.8656
+First Class,Consumer,United States,Draper,Utah,84020,West,Furniture,Furnishings,25.16,2,0.0,10.5672
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Bookcases,67.9932,1,0.32,-12.9987
+Second Class,Corporate,United States,Montgomery,Alabama,36116,South,Furniture,Furnishings,10.16,2,0.0,3.4544
+Standard Class,Corporate,United States,Jackson,Mississippi,39212,South,Furniture,Furnishings,6.16,2,0.0,1.9712
+Standard Class,Consumer,United States,Pasadena,California,91104,West,Furniture,Furnishings,383.64,6,0.0,122.7648
+Standard Class,Home Office,United States,Clinton,Maryland,20735,East,Furniture,Furnishings,19.98,1,0.0,8.5914
+Second Class,Consumer,United States,San Diego,California,92037,West,Furniture,Furnishings,6.16,2,0.0,1.9712
+Standard Class,Corporate,United States,Greensboro,North Carolina,27405,South,Furniture,Furnishings,17.088,2,0.2,1.068
+Standard Class,Corporate,United States,Memphis,Tennessee,38109,South,Furniture,Furnishings,19.52,2,0.2,5.368
+Standard Class,Corporate,United States,La Crosse,Wisconsin,54601,Central,Furniture,Furnishings,68.64,11,0.0,17.16
+Second Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Furnishings,6.16,2,0.0,2.9568
+Second Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Tables,2348.82,9,0.0,399.2994
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,815.292,9,0.4,-339.705
+Standard Class,Consumer,United States,Chesapeake,Virginia,23320,South,Furniture,Tables,1256.22,6,0.0,75.3732
+Standard Class,Corporate,United States,Dearborn,Michigan,48126,Central,Furniture,Furnishings,60.84,3,0.0,23.1192
+Second Class,Home Office,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,7.04,4,0.0,3.0976
+Standard Class,Corporate,United States,Morristown,New Jersey,7960,East,Furniture,Furnishings,74.45,5,0.0,20.1015
+Standard Class,Corporate,United States,Alexandria,Virginia,22304,South,Furniture,Furnishings,192.22,14,0.0,69.1992
+Second Class,Corporate,United States,Apple Valley,California,92307,West,Furniture,Bookcases,1194.165,5,0.15,210.735
+First Class,Home Office,United States,Salem,Oregon,97301,West,Furniture,Tables,377.45,5,0.5,-264.215
+Standard Class,Home Office,United States,Aurora,Colorado,80013,West,Furniture,Furnishings,21.44,2,0.2,7.504
+Second Class,Consumer,United States,Pocatello,Idaho,83201,West,Furniture,Furnishings,355.36,4,0.0,92.3936
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,38.976,3,0.6,-50.6688
+Same Day,Consumer,United States,Apopka,Florida,32712,South,Furniture,Furnishings,129.888,6,0.2,12.9888
+Second Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Tables,71.088,2,0.2,-1.7772
+Standard Class,Consumer,United States,Marion,Ohio,43302,East,Furniture,Tables,136.53,1,0.4,-52.3365
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,79.44,3,0.0,30.1872
+Standard Class,Consumer,United States,Madison,Wisconsin,53711,Central,Furniture,Bookcases,459.92,4,0.0,41.3928
+First Class,Corporate,United States,Milford,Connecticut,6460,East,Furniture,Bookcases,638.82,9,0.0,185.2578
+First Class,Corporate,United States,Milford,Connecticut,6460,East,Furniture,Furnishings,25.16,2,0.0,8.5544
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Furniture,Furnishings,19.3,2,0.0,5.79
+First Class,Corporate,United States,Fairfield,California,94533,West,Furniture,Furnishings,26.48,1,0.0,10.0624
+First Class,Corporate,United States,Fairfield,California,94533,West,Furniture,Furnishings,21.56,7,0.0,6.8992
+Standard Class,Consumer,United States,Buffalo Grove,Illinois,60089,Central,Furniture,Tables,355.455,3,0.5,-184.8366
+Standard Class,Consumer,United States,Raleigh,North Carolina,27604,South,Furniture,Furnishings,46.152,3,0.2,12.1149
+First Class,Consumer,United States,Lake Forest,California,92630,West,Furniture,Furnishings,54.92,4,0.0,19.7712
+Standard Class,Corporate,United States,Los Angeles,California,90032,West,Furniture,Furnishings,14.91,3,0.0,4.6221
+Standard Class,Consumer,United States,Springfield,Oregon,97477,West,Furniture,Bookcases,217.764,6,0.7,-384.7164
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,Furniture,Furnishings,12.32,5,0.2,1.848
+First Class,Consumer,United States,Bakersfield,California,93309,West,Furniture,Furnishings,51.75,1,0.0,15.525
+Second Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,117.36,4,0.0,36.3816
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Furniture,Bookcases,205.9992,3,0.32,-27.2646
+Standard Class,Corporate,United States,Chattanooga,Tennessee,37421,South,Furniture,Furnishings,132.224,4,0.2,-18.1808
+Standard Class,Corporate,United States,San Diego,California,92037,West,Furniture,Furnishings,91.96,2,0.0,15.6332
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Furniture,Tables,285.48,5,0.2,-10.7055
+Standard Class,Consumer,United States,Richmond,Indiana,47374,Central,Furniture,Tables,581.96,2,0.0,104.7528
+Second Class,Home Office,United States,Arlington,Virginia,22204,South,Furniture,Furnishings,47.98,2,0.0,11.0354
+Standard Class,Consumer,United States,San Diego,California,92105,West,Furniture,Furnishings,80.96,4,0.0,29.1456
+Standard Class,Consumer,United States,San Diego,California,92105,West,Furniture,Furnishings,36.6,3,0.0,15.372
+Standard Class,Home Office,United States,Roseville,Minnesota,55113,Central,Furniture,Furnishings,29.22,3,0.0,12.8568
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Furniture,Furnishings,14.76,5,0.6,-11.439
+Second Class,Consumer,United States,Concord,California,94521,West,Furniture,Bookcases,239.666,2,0.15,14.098
+Standard Class,Consumer,United States,Conway,Arkansas,72032,South,Furniture,Tables,301.96,2,0.0,45.294
+Same Day,Corporate,United States,Anaheim,California,92804,West,Furniture,Tables,1293.488,7,0.2,80.843
+Standard Class,Consumer,United States,Bloomington,Indiana,47401,Central,Furniture,Furnishings,127.95,3,0.0,21.7515
+Second Class,Corporate,United States,San Francisco,California,94109,West,Furniture,Furnishings,28.28,2,0.0,7.3528
+Standard Class,Consumer,United States,Richmond,Indiana,47374,Central,Furniture,Furnishings,71.12,4,0.0,22.0472
+Standard Class,Corporate,United States,Westfield,New Jersey,7090,East,Furniture,Furnishings,31.56,3,0.0,10.4148
+Standard Class,Corporate,United States,San Jose,California,95123,West,Furniture,Furnishings,14.52,3,0.0,5.6628
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,4228.704,6,0.2,158.5764
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,2003.92,5,0.2,-25.049
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Tables,313.176,2,0.4,-120.0508
+Standard Class,Corporate,United States,Decatur,Alabama,35601,South,Furniture,Tables,1215.92,8,0.0,316.1392
+Standard Class,Corporate,United States,Fayetteville,Arkansas,72701,South,Furniture,Furnishings,8.92,4,0.0,3.9248
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Bookcases,87.21,3,0.5,-45.3492
+Same Day,Home Office,United States,Seattle,Washington,98103,West,Furniture,Furnishings,25.4,5,0.0,8.636
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,Furniture,Furnishings,6.28,1,0.0,2.6376
+Second Class,Corporate,United States,Reading,Pennsylvania,19601,East,Furniture,Furnishings,23.968,2,0.2,7.7896
+Second Class,Corporate,United States,Reading,Pennsylvania,19601,East,Furniture,Bookcases,521.96,4,0.5,-250.5408
+Second Class,Corporate,United States,Los Angeles,California,90045,West,Furniture,Furnishings,21.12,4,0.0,6.5472
+First Class,Consumer,United States,San Diego,California,92105,West,Furniture,Furnishings,43.02,3,0.0,15.4872
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,240.784,1,0.2,30.098
+Standard Class,Home Office,United States,Tulsa,Oklahoma,74133,Central,Furniture,Tables,429.9,5,0.0,111.774
+Standard Class,Consumer,United States,Hattiesburg,Mississippi,39401,South,Furniture,Furnishings,185.58,6,0.0,76.0878
+Standard Class,Consumer,United States,Hattiesburg,Mississippi,39401,South,Furniture,Bookcases,504.9,5,0.0,126.225
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,Furniture,Tables,328.59,3,0.4,-147.8655
+Standard Class,Corporate,United States,Phoenix,Arizona,85023,West,Furniture,Furnishings,87.96,3,0.2,7.6965
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Furnishings,19.76,4,0.0,8.2992
+First Class,Corporate,United States,Florence,South Carolina,29501,South,Furniture,Furnishings,127.95,3,0.0,21.7515
+Standard Class,Corporate,United States,Los Angeles,California,90049,West,Furniture,Furnishings,91.96,2,0.0,15.6332
+Standard Class,Corporate,United States,Los Angeles,California,90049,West,Furniture,Furnishings,33.11,7,0.0,12.9129
+Standard Class,Corporate,United States,Nashua,New Hampshire,3060,East,Furniture,Furnishings,21.12,4,0.0,6.5472
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,Furniture,Furnishings,15.24,3,0.0,5.1816
+Standard Class,Consumer,United States,Georgetown,Kentucky,40324,South,Furniture,Furnishings,42.6,3,0.0,16.614
+Standard Class,Consumer,United States,Sierra Vista,Arizona,85635,West,Furniture,Furnishings,14.368,2,0.2,3.9512
+Standard Class,Corporate,United States,Tucson,Arizona,85705,West,Furniture,Furnishings,238.152,3,0.2,89.307
+Standard Class,Home Office,United States,Minneapolis,Minnesota,55407,Central,Furniture,Tables,692.94,3,0.0,173.235
+Second Class,Home Office,United States,Lancaster,Ohio,43130,East,Furniture,Furnishings,28.0,4,0.2,7.7
+Standard Class,Home Office,United States,Lakewood,California,90712,West,Furniture,Furnishings,6.98,1,0.0,3.3504
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,191.82,3,0.0,61.3824
+Same Day,Consumer,United States,Lubbock,Texas,79424,Central,Furniture,Furnishings,25.16,5,0.6,-11.322
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Furniture,Furnishings,29.22,3,0.0,12.8568
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,314.532,2,0.4,-83.8752
+Standard Class,Corporate,United States,Springfield,Oregon,97477,West,Furniture,Furnishings,409.216,8,0.2,61.3824
+Standard Class,Corporate,United States,Springfield,Oregon,97477,West,Furniture,Bookcases,72.588,2,0.7,-128.2388
+First Class,Corporate,United States,Los Angeles,California,90045,West,Furniture,Tables,161.28,2,0.2,12.096
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Bookcases,205.666,2,0.15,-12.098
+First Class,Consumer,United States,Columbus,Georgia,31907,South,Furniture,Bookcases,354.9,5,0.0,88.725
+Second Class,Home Office,United States,San Francisco,California,94110,West,Furniture,Bookcases,1198.33,10,0.15,70.49
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,51.968,2,0.2,10.3936
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,42.408,3,0.2,9.5418
+First Class,Corporate,United States,Lakeland,Florida,33801,South,Furniture,Furnishings,4.992,3,0.2,1.3728
+First Class,Corporate,United States,Lakeland,Florida,33801,South,Furniture,Furnishings,20.016,3,0.2,5.5044
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,799.56,9,0.0,207.8856
+First Class,Home Office,United States,Marion,Ohio,43302,East,Furniture,Furnishings,7.712,2,0.2,1.7352
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Furniture,Furnishings,65.94,3,0.0,22.4196
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,68.16,3,0.0,27.9456
+Standard Class,Consumer,United States,Hendersonville,Tennessee,37075,South,Furniture,Furnishings,72.704,4,0.2,19.0848
+Standard Class,Consumer,United States,Portland,Oregon,97206,West,Furniture,Bookcases,66.294,1,0.7,-103.8606
+Standard Class,Consumer,United States,San Jose,California,95123,West,Furniture,Furnishings,166.5,3,0.0,21.645
+Second Class,Corporate,United States,Concord,New Hampshire,3301,East,Furniture,Furnishings,247.44,8,0.0,101.4504
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Furnishings,22.14,3,0.0,6.4206
+Standard Class,Consumer,United States,Columbus,Indiana,47201,Central,Furniture,Furnishings,6.24,3,0.0,2.6208
+Standard Class,Corporate,United States,Montgomery,Alabama,36116,South,Furniture,Furnishings,21.36,8,0.0,8.1168
+Second Class,Consumer,United States,Seattle,Washington,98105,West,Furniture,Furnishings,12.42,3,0.0,4.4712
+Second Class,Consumer,United States,Seattle,Washington,98105,West,Furniture,Furnishings,24.75,5,0.0,10.89
+Standard Class,Consumer,United States,Marion,Ohio,43302,East,Furniture,Furnishings,63.824,2,0.2,9.5736
+Standard Class,Corporate,United States,Lakewood,Ohio,44107,East,Furniture,Tables,661.176,2,0.4,-231.4116
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Furniture,Tables,502.488,3,0.2,-87.9354
+Second Class,Home Office,United States,Chico,California,95928,West,Furniture,Furnishings,327.76,8,0.0,91.7728
+First Class,Home Office,United States,San Francisco,California,94109,West,Furniture,Furnishings,25.83,3,0.0,9.5571
+Standard Class,Consumer,United States,Oxnard,California,93030,West,Furniture,Furnishings,127.95,3,0.0,21.7515
+Standard Class,Consumer,United States,Westland,Michigan,48185,Central,Furniture,Furnishings,272.94,3,0.0,30.0234
+Standard Class,Consumer,United States,Westland,Michigan,48185,Central,Furniture,Furnishings,14.73,3,0.0,4.8609
+Standard Class,Consumer,United States,Los Angeles,California,90008,West,Furniture,Furnishings,47.04,4,0.0,15.9936
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,108.4,5,0.6,-105.69
+Standard Class,Corporate,United States,Grand Prairie,Texas,75051,Central,Furniture,Furnishings,38.08,5,0.6,-29.512
+Same Day,Home Office,United States,New York City,New York,10009,East,Furniture,Bookcases,113.568,2,0.2,12.7764
+Second Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,83.92,4,0.0,21.8192
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Furnishings,14.76,2,0.0,4.2804
+Standard Class,Consumer,United States,Springfield,Ohio,45503,East,Furniture,Bookcases,299.975,5,0.5,-167.986
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,396.92,4,0.0,198.46
+First Class,Consumer,United States,Lafayette,Louisiana,70506,South,Furniture,Bookcases,241.96,2,0.0,33.8744
+First Class,Consumer,United States,Lafayette,Louisiana,70506,South,Furniture,Furnishings,8.01,3,0.0,3.0438
+Standard Class,Consumer,United States,Jacksonville,North Carolina,28540,South,Furniture,Tables,945.036,6,0.4,-299.2614
+Standard Class,Consumer,United States,Jacksonville,North Carolina,28540,South,Furniture,Furnishings,410.352,3,0.2,-51.294
+First Class,Consumer,United States,Pocatello,Idaho,83201,West,Furniture,Furnishings,35.0,4,0.0,14.7
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Furniture,Tables,974.988,4,0.3,-97.4988
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,82.26,3,0.0,33.7266
+Second Class,Home Office,United States,Houston,Texas,77095,Central,Furniture,Furnishings,103.5,5,0.6,-77.625
+First Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Furnishings,36.96,7,0.0,11.4576
+Standard Class,Home Office,United States,Louisville,Kentucky,40214,South,Furniture,Furnishings,13.28,2,0.0,6.3744
+Standard Class,Home Office,United States,Providence,Rhode Island,2908,East,Furniture,Furnishings,72.42,6,0.0,23.8986
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,61.96,4,0.5,-53.2856
+Standard Class,Consumer,United States,Pembroke Pines,Florida,33024,South,Furniture,Bookcases,241.568,2,0.2,0.0
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Tables,384.768,2,0.4,-115.4304
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,103.936,4,0.2,16.8896
+Standard Class,Corporate,United States,Orlando,Florida,32839,South,Furniture,Bookcases,289.568,2,0.2,10.8588
+Standard Class,Home Office,United States,Louisville,Kentucky,40214,South,Furniture,Furnishings,20.94,3,0.0,6.0726
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,332.832,4,0.2,-24.9624
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,529.9,5,0.0,105.98
+Standard Class,Consumer,United States,Buffalo,New York,14215,East,Furniture,Bookcases,4007.84,10,0.2,-50.098
+First Class,Corporate,United States,Knoxville,Tennessee,37918,South,Furniture,Tables,328.59,3,0.4,-147.8655
+First Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Furnishings,139.92,2,0.0,23.7864
+Standard Class,Consumer,United States,Lawrence,Massachusetts,1841,East,Furniture,Tables,194.25,2,0.3,-38.85
+Same Day,Consumer,United States,Seattle,Washington,98105,West,Furniture,Furnishings,101.94,3,0.0,30.582
+Standard Class,Consumer,United States,Salem,Virginia,24153,South,Furniture,Furnishings,8.8,5,0.0,3.872
+Standard Class,Consumer,United States,Salem,Virginia,24153,South,Furniture,Bookcases,302.94,3,0.0,69.6762
+Standard Class,Corporate,United States,Clinton,Maryland,20735,East,Furniture,Furnishings,60.72,3,0.0,23.6808
+Standard Class,Consumer,United States,Louisville,Kentucky,40214,South,Furniture,Furnishings,209.88,3,0.0,35.6796
+First Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Bookcases,239.666,2,0.15,14.098
+Second Class,Corporate,United States,Springfield,Missouri,65807,Central,Furniture,Bookcases,212.94,3,0.0,53.235
+First Class,Corporate,United States,San Francisco,California,94109,West,Furniture,Furnishings,41.88,6,0.0,12.1452
+Standard Class,Consumer,United States,Texas City,Texas,77590,Central,Furniture,Tables,102.438,1,0.3,-13.1706
+Standard Class,Consumer,United States,Seattle,Washington,98115,West,Furniture,Tables,1747.25,5,0.0,629.01
+Second Class,Corporate,United States,Lorain,Ohio,44052,East,Furniture,Tables,1421.664,8,0.4,-734.5264
+Standard Class,Home Office,United States,Springfield,Oregon,97477,West,Furniture,Tables,564.195,3,0.5,-304.6653
+First Class,Corporate,United States,Arlington,Texas,76017,Central,Furniture,Furnishings,21.184,2,0.6,-11.6512
+Standard Class,Home Office,United States,Gilbert,Arizona,85234,West,Furniture,Furnishings,68.704,2,0.2,16.3172
+Standard Class,Home Office,United States,Gilbert,Arizona,85234,West,Furniture,Tables,386.91,9,0.5,-185.7168
+Standard Class,Consumer,United States,Virginia Beach,Virginia,23464,South,Furniture,Tables,356.85,5,0.0,60.6645
+Second Class,Consumer,United States,Vineland,New Jersey,8360,East,Furniture,Furnishings,42.85,5,0.0,15.426
+Standard Class,Home Office,United States,Charlottesville,Virginia,22901,South,Furniture,Furnishings,67.96,4,0.0,12.2328
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Furniture,Furnishings,46.872,7,0.2,3.5154
+Standard Class,Home Office,United States,Los Angeles,California,90008,West,Furniture,Furnishings,20.04,6,0.0,8.8176
+Standard Class,Consumer,United States,Bloomington,Illinois,61701,Central,Furniture,Furnishings,41.552,2,0.6,-19.7372
+Standard Class,Consumer,United States,Wilson,North Carolina,27893,South,Furniture,Furnishings,163.136,4,0.2,20.392
+Same Day,Consumer,United States,Skokie,Illinois,60076,Central,Furniture,Furnishings,266.352,6,0.6,-292.9872
+Same Day,Consumer,United States,Skokie,Illinois,60076,Central,Furniture,Furnishings,56.328,3,0.6,-26.7558
+Standard Class,Home Office,United States,Hot Springs,Arkansas,71901,South,Furniture,Furnishings,159.92,4,0.0,31.984
+Standard Class,Corporate,United States,Miami,Florida,33180,South,Furniture,Furnishings,50.496,6,0.2,8.2056
+Standard Class,Corporate,United States,Lakewood,New Jersey,8701,East,Furniture,Furnishings,47.4,5,0.0,18.96
+Standard Class,Consumer,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,14.56,5,0.6,-6.188
+Second Class,Consumer,United States,Baltimore,Maryland,21215,East,Furniture,Bookcases,344.94,3,0.0,31.0446
+Second Class,Consumer,United States,Baltimore,Maryland,21215,East,Furniture,Furnishings,14.76,2,0.0,4.2804
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,20.096,4,0.2,3.0144
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,138.588,1,0.4,-34.647
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Furniture,Furnishings,129.93,3,0.0,12.993
+Standard Class,Home Office,United States,Sacramento,California,95823,West,Furniture,Furnishings,9.98,1,0.0,2.7944
+Standard Class,Corporate,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,34.504,2,0.6,-15.5268
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,20.104,2,0.6,-16.5858
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,7.88,5,0.6,-3.94
+Standard Class,Corporate,United States,Phoenix,Arizona,85023,West,Furniture,Tables,35.445,1,0.5,-24.1026
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Furniture,Furnishings,22.38,3,0.6,-7.833
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,127.936,8,0.2,4.7976
+Standard Class,Consumer,United States,Seattle,Washington,98105,West,Furniture,Furnishings,6.24,3,0.0,2.6208
+Standard Class,Corporate,United States,Peoria,Illinois,61604,Central,Furniture,Furnishings,7.968,3,0.6,-2.3904
+Standard Class,Corporate,United States,Peoria,Illinois,61604,Central,Furniture,Furnishings,2.96,2,0.6,-1.406
+Standard Class,Corporate,United States,Montgomery,Alabama,36116,South,Furniture,Tables,358.58,2,0.0,39.4438
+Same Day,Consumer,United States,Santa Ana,California,92704,West,Furniture,Tables,146.04,1,0.2,-12.7785
+Standard Class,Corporate,United States,Thousand Oaks,California,91360,West,Furniture,Furnishings,22.72,1,0.0,9.3152
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,59.92,4,0.0,27.5632
+Standard Class,Corporate,United States,Franklin,Wisconsin,53132,Central,Furniture,Bookcases,1565.88,6,0.0,407.1288
+Standard Class,Corporate,United States,Los Angeles,California,90004,West,Furniture,Tables,2887.056,9,0.2,180.441
+Standard Class,Consumer,United States,Chesapeake,Virginia,23320,South,Furniture,Tables,1652.94,3,0.0,314.0586
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,131.376,6,0.6,-95.2476
+Second Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Tables,1913.4,9,0.0,401.814
+Standard Class,Corporate,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,20.32,4,0.0,6.9088
+Standard Class,Corporate,United States,North Charleston,South Carolina,29406,South,Furniture,Furnishings,14.76,2,0.0,4.2804
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Bookcases,115.96,2,0.0,25.5112
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,681.408,12,0.2,42.588
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,31.984,2,0.2,1.1994
+First Class,Home Office,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,84.272,2,0.6,-75.8448
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Bookcases,523.92,5,0.2,-26.196
+Same Day,Home Office,United States,New York City,New York,10011,East,Furniture,Tables,79.974,3,0.4,-29.3238
+Standard Class,Consumer,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,51.75,1,0.0,15.525
+Second Class,Consumer,United States,Longview,Washington,98632,West,Furniture,Furnishings,24.85,5,0.0,7.7035
+Standard Class,Corporate,United States,Gilbert,Arizona,85234,West,Furniture,Furnishings,621.76,4,0.2,46.632
+Second Class,Consumer,United States,Hampton,Virginia,23666,South,Furniture,Furnishings,186.54,3,0.0,41.0388
+Second Class,Corporate,United States,Los Angeles,California,90045,West,Furniture,Furnishings,289.24,7,0.0,26.0316
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Furniture,Furnishings,8.544,2,0.6,-7.476
+Standard Class,Corporate,United States,Springfield,Ohio,45503,East,Furniture,Furnishings,25.984,1,0.2,-3.8976
+Second Class,Home Office,United States,Salinas,California,93905,West,Furniture,Bookcases,148.257,3,0.15,15.6978
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Furniture,Furnishings,4.224,3,0.2,1.2672
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,124.36,2,0.0,27.3592
+Standard Class,Home Office,United States,Concord,California,94521,West,Furniture,Tables,99.592,1,0.2,2.4898
+Same Day,Consumer,United States,Anaheim,California,92804,West,Furniture,Tables,892.136,7,0.2,111.517
+Standard Class,Consumer,United States,Charlotte,North Carolina,28205,South,Furniture,Tables,472.518,3,0.4,-149.6307
+Second Class,Corporate,United States,Newark,Ohio,43055,East,Furniture,Furnishings,38.784,3,0.2,7.272
+First Class,Corporate,United States,Henderson,Nevada,89015,West,Furniture,Tables,1685.88,6,0.0,320.3172
+Standard Class,Consumer,United States,Seattle,Washington,98105,West,Furniture,Bookcases,141.96,2,0.0,41.1684
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,10.02,3,0.0,4.4088
+Standard Class,Consumer,United States,Newark,Delaware,19711,East,Furniture,Furnishings,19.92,4,0.0,6.5736
+Standard Class,Home Office,United States,Richmond,Indiana,47374,Central,Furniture,Tables,257.94,3,0.0,67.0644
+Standard Class,Home Office,United States,Richmond,Indiana,47374,Central,Furniture,Furnishings,27.46,2,0.0,9.8856
+Standard Class,Consumer,United States,Miami,Florida,33180,South,Furniture,Bookcases,290.352,3,0.2,-36.294
+Same Day,Consumer,United States,Saint Charles,Missouri,63301,Central,Furniture,Furnishings,135.3,5,0.0,37.884
+Standard Class,Home Office,United States,Virginia Beach,Virginia,23464,South,Furniture,Furnishings,111.15,5,0.0,48.906
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Tables,154.764,3,0.4,-46.4292
+Second Class,Consumer,United States,Mesa,Arizona,85204,West,Furniture,Tables,182.55,2,0.5,-135.087
+Second Class,Consumer,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,275.88,6,0.0,46.8996
+Second Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Tables,170.352,3,0.2,19.1646
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Furniture,Furnishings,16.784,2,0.6,-22.2388
+First Class,Home Office,United States,San Diego,California,92024,West,Furniture,Tables,674.352,3,0.2,-8.4294
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,Furniture,Furnishings,19.54,2,0.0,7.2298
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Furniture,Tables,331.023,7,0.45,-114.3534
+Same Day,Corporate,United States,Rochester,New York,14609,East,Furniture,Furnishings,756.8,5,0.0,75.68
+Standard Class,Home Office,United States,Saint Charles,Illinois,60174,Central,Furniture,Furnishings,8.736,3,0.6,-4.8048
+Standard Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Furnishings,17.46,2,0.0,5.9364
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,30.8,4,0.0,10.164
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,113.6,8,0.0,44.304
+Standard Class,Consumer,United States,San Jose,California,95123,West,Furniture,Furnishings,43.96,7,0.0,18.4632
+Second Class,Consumer,United States,Pasadena,California,91104,West,Furniture,Furnishings,66.36,7,0.0,26.544
+Second Class,Consumer,United States,Pasadena,California,91104,West,Furniture,Furnishings,24.14,2,0.0,7.9662
+Standard Class,Corporate,United States,Columbus,Ohio,43229,East,Furniture,Bookcases,302.45,5,0.5,-199.617
+Standard Class,Home Office,United States,Superior,Wisconsin,54880,Central,Furniture,Furnishings,47.4,5,0.0,21.33
+Standard Class,Consumer,United States,Concord,North Carolina,28027,South,Furniture,Furnishings,315.776,8,0.2,31.5776
+Standard Class,Corporate,United States,San Jose,California,95123,West,Furniture,Bookcases,273.666,2,0.15,-12.8784
+Standard Class,Home Office,United States,Helena,Montana,59601,West,Furniture,Furnishings,63.98,7,0.0,21.7532
+Standard Class,Consumer,United States,Cleveland,Ohio,44105,East,Furniture,Furnishings,66.112,2,0.2,-9.0904
+Standard Class,Corporate,United States,Oklahoma City,Oklahoma,73120,Central,Furniture,Furnishings,57.69,3,0.0,23.6529
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Furnishings,59.99,7,0.0,21.5964
+Standard Class,Consumer,United States,Bellevue,Washington,98006,West,Furniture,Furnishings,20.24,1,0.0,7.8936
+First Class,Consumer,United States,Des Plaines,Illinois,60016,Central,Furniture,Tables,292.1,4,0.5,-175.26
+First Class,Consumer,United States,Des Plaines,Illinois,60016,Central,Furniture,Furnishings,8.544,2,0.6,-7.476
+First Class,Consumer,United States,Des Plaines,Illinois,60016,Central,Furniture,Bookcases,424.116,6,0.3,-30.294
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Furniture,Tables,890.841,3,0.3,-152.7156
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Tables,142.182,1,0.4,-37.9152
+Second Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,135.3,5,0.0,37.884
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,41.96,2,0.0,10.9096
+Standard Class,Home Office,United States,Burbank,California,91505,West,Furniture,Furnishings,111.0,2,0.0,14.43
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,Furniture,Furnishings,22.752,6,0.6,-8.532
+Standard Class,Consumer,United States,Tampa,Florida,33614,South,Furniture,Furnishings,67.36,2,0.2,10.104
+Standard Class,Consumer,United States,Tampa,Florida,33614,South,Furniture,Furnishings,54.528,3,0.2,14.3136
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,449.568,2,0.2,56.196
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Furniture,Furnishings,25.71,3,0.0,9.2556
+Standard Class,Corporate,United States,Jacksonville,Florida,32216,South,Furniture,Tables,721.875,6,0.45,-420.0
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Furniture,Furnishings,169.568,2,0.2,0.0
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,523.764,3,0.4,-192.0468
+Standard Class,Consumer,United States,Omaha,Nebraska,68104,Central,Furniture,Furnishings,1336.44,14,0.0,387.5676
+Standard Class,Consumer,United States,Chattanooga,Tennessee,37421,South,Furniture,Furnishings,101.52,5,0.2,19.035
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,313.176,2,0.4,-120.0508
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Furnishings,43.13,1,0.0,14.6642
+Standard Class,Corporate,United States,Camarillo,California,93010,West,Furniture,Bookcases,509.9575,5,0.15,41.9965
+Standard Class,Corporate,United States,Camarillo,California,93010,West,Furniture,Furnishings,122.91,3,0.0,34.4148
+Standard Class,Corporate,United States,Los Angeles,California,90032,West,Furniture,Furnishings,167.84,8,0.0,11.7488
+Standard Class,Consumer,United States,Toledo,Ohio,43615,East,Furniture,Tables,172.11,1,0.4,-94.6605
+Standard Class,Home Office,United States,Tigard,Oregon,97224,West,Furniture,Furnishings,13.592,1,0.2,-0.3398
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,36.672,3,0.2,6.4176
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Furnishings,32.712,2,0.6,-26.1696
+Second Class,Corporate,United States,Covington,Washington,98042,West,Furniture,Furnishings,46.9,5,0.0,13.132
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Furniture,Tables,236.528,2,0.2,-2.9566
+Second Class,Home Office,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,22.2,1,0.6,-26.085
+First Class,Consumer,United States,Knoxville,Tennessee,37918,South,Furniture,Furnishings,88.92,5,0.2,14.4495
+First Class,Consumer,United States,Waynesboro,Virginia,22980,South,Furniture,Furnishings,1196.86,7,0.0,119.686
+First Class,Consumer,United States,Waynesboro,Virginia,22980,South,Furniture,Bookcases,523.26,9,0.0,125.5824
+Second Class,Home Office,United States,Los Angeles,California,90045,West,Furniture,Furnishings,34.92,4,0.0,11.8728
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,14.56,2,0.0,6.2608
+Second Class,Home Office,United States,Dover,New Hampshire,3820,East,Furniture,Tables,1053.164,4,0.3,-105.3164
+Standard Class,Corporate,United States,Los Angeles,California,90032,West,Furniture,Furnishings,106.68,6,0.0,33.0708
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Tables,512.19,5,0.3,-65.853
+Standard Class,Consumer,United States,Westminster,California,92683,West,Furniture,Furnishings,276.69,3,0.0,49.8042
+Standard Class,Consumer,United States,Westminster,California,92683,West,Furniture,Furnishings,18.84,3,0.0,7.9128
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,396.92,5,0.2,148.845
+Same Day,Corporate,United States,San Francisco,California,94109,West,Furniture,Furnishings,9.24,3,0.0,2.9568
+First Class,Consumer,United States,Longmont,Colorado,80501,West,Furniture,Furnishings,266.352,3,0.2,-13.3176
+Standard Class,Consumer,United States,Greenville,North Carolina,27834,South,Furniture,Bookcases,231.92,5,0.2,5.798
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,13.592,2,0.6,-14.2716
+Standard Class,Corporate,United States,Denver,Colorado,80219,West,Furniture,Bookcases,242.352,8,0.7,-363.528
+Standard Class,Corporate,United States,Denver,Colorado,80219,West,Furniture,Furnishings,508.704,6,0.2,0.0
+First Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Furnishings,21.204,3,0.6,-11.6622
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Bookcases,349.965,7,0.5,-216.9783
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Furniture,Furnishings,31.68,6,0.0,9.8208
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Bookcases,198.744,4,0.3,0.0
+Second Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Bookcases,48.58,1,0.0,7.7728
+Standard Class,Corporate,United States,Newport News,Virginia,23602,South,Furniture,Tables,591.32,4,0.0,112.3508
+Standard Class,Consumer,United States,Roseville,California,95661,West,Furniture,Furnishings,17.31,3,0.0,5.193
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,58.248,9,0.2,11.6496
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Furnishings,25.176,3,0.6,-33.3582
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Furnishings,5.584,2,0.6,-1.6752
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,14.91,3,0.0,4.6221
+First Class,Corporate,United States,Los Angeles,California,90032,West,Furniture,Tables,189.576,1,0.2,9.4788
+Second Class,Home Office,United States,Detroit,Michigan,48234,Central,Furniture,Furnishings,75.33,9,0.0,19.5858
+Standard Class,Corporate,United States,Newark,Delaware,19711,East,Furniture,Bookcases,441.96,2,0.0,101.6508
+Standard Class,Corporate,United States,Marion,Ohio,43302,East,Furniture,Tables,1548.99,9,0.4,-464.697
+Second Class,Consumer,United States,Las Vegas,Nevada,89115,West,Furniture,Furnishings,80.96,4,0.0,29.1456
+Same Day,Home Office,United States,Los Angeles,California,90049,West,Furniture,Furnishings,187.76,4,0.0,76.9816
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Furnishings,76.728,3,0.6,-53.7096
+Standard Class,Corporate,United States,Bossier City,Louisiana,71111,South,Furniture,Furnishings,129.92,4,0.0,10.3936
+Second Class,Home Office,United States,Everett,Massachusetts,2149,East,Furniture,Bookcases,170.98,1,0.0,32.4862
+Second Class,Home Office,United States,Everett,Massachusetts,2149,East,Furniture,Furnishings,38.97,3,0.0,4.6764
+Second Class,Home Office,United States,Everett,Massachusetts,2149,East,Furniture,Tables,446.068,4,0.3,0.0
+Standard Class,Home Office,United States,Providence,Rhode Island,2908,East,Furniture,Bookcases,341.96,2,0.0,78.6508
+Standard Class,Corporate,United States,Jackson,Michigan,49201,Central,Furniture,Tables,1568.61,9,0.0,329.4081
+First Class,Corporate,United States,Suffolk,Virginia,23434,South,Furniture,Tables,872.94,3,0.0,157.1292
+Standard Class,Home Office,United States,Lawrence,Massachusetts,1841,East,Furniture,Tables,526.582,2,0.3,-52.6582
+Standard Class,Consumer,United States,Detroit,Michigan,48234,Central,Furniture,Tables,447.84,4,0.0,98.5248
+Second Class,Consumer,United States,Fayetteville,North Carolina,28314,South,Furniture,Furnishings,77.952,3,0.2,15.5904
+Standard Class,Consumer,United States,Arlington,Virginia,22204,South,Furniture,Furnishings,60.84,3,0.0,19.4688
+First Class,Corporate,United States,Jacksonville,North Carolina,28540,South,Furniture,Furnishings,17.088,2,0.2,1.068
+Second Class,Corporate,United States,Buffalo,New York,14215,East,Furniture,Furnishings,154.95,3,0.0,30.99
+Second Class,Corporate,United States,Charlotte,North Carolina,28205,South,Furniture,Tables,876.3,10,0.4,-292.1
+First Class,Consumer,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,22.608,3,0.6,-10.1736
+Second Class,Consumer,United States,Fresno,California,93727,West,Furniture,Furnishings,40.48,2,0.0,14.5728
+First Class,Consumer,United States,Clinton,Maryland,20735,East,Furniture,Tables,550.431,3,0.3,-47.1798
+First Class,Consumer,United States,Clinton,Maryland,20735,East,Furniture,Furnishings,10.56,6,0.0,4.6464
+First Class,Home Office,United States,Los Angeles,California,90049,West,Furniture,Bookcases,1497.666,2,0.15,140.9568
+Second Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Tables,241.568,2,0.2,-15.098
+Standard Class,Consumer,United States,Des Moines,Iowa,50315,Central,Furniture,Tables,1184.72,4,0.0,106.6248
+Standard Class,Consumer,United States,Pharr,Texas,78577,Central,Furniture,Tables,124.404,4,0.3,-21.3264
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Furnishings,16.192,2,0.6,-6.8816
+Second Class,Consumer,United States,Mesa,Arizona,85204,West,Furniture,Bookcases,127.764,6,0.7,-191.646
+Second Class,Home Office,United States,Aurora,Illinois,60505,Central,Furniture,Furnishings,242.176,4,0.6,-302.72
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Tables,337.176,2,0.4,-118.0116
+Second Class,Consumer,United States,Thornton,Colorado,80229,West,Furniture,Furnishings,23.376,3,0.2,7.0128
+Second Class,Consumer,United States,Thornton,Colorado,80229,West,Furniture,Furnishings,16.72,5,0.2,3.344
+Second Class,Consumer,United States,Thornton,Colorado,80229,West,Furniture,Furnishings,16.192,1,0.2,4.6552
+Standard Class,Consumer,United States,Fayetteville,Arkansas,72701,South,Furniture,Furnishings,343.85,5,0.0,137.54
+Standard Class,Consumer,United States,Memphis,Tennessee,38109,South,Furniture,Furnishings,31.984,1,0.2,0.0
+Standard Class,Consumer,United States,Morgan Hill,California,95037,West,Furniture,Tables,268.704,3,0.2,6.7176
+Standard Class,Consumer,United States,Morgan Hill,California,95037,West,Furniture,Bookcases,205.666,2,0.15,-12.098
+Second Class,Consumer,United States,Saint Charles,Illinois,60174,Central,Furniture,Furnishings,30.344,2,0.6,-31.8612
+Second Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,50.97,3,0.0,9.1746
+First Class,Home Office,United States,Dallas,Texas,75217,Central,Furniture,Tables,298.116,6,0.3,-4.2588
+Standard Class,Consumer,United States,El Paso,Texas,79907,Central,Furniture,Furnishings,63.552,6,0.6,-34.9536
+Standard Class,Corporate,United States,Chico,California,95928,West,Furniture,Furnishings,72.9,5,0.0,26.973
+Standard Class,Corporate,United States,Chico,California,95928,West,Furniture,Tables,206.352,3,0.2,5.1588
+First Class,Corporate,United States,Denver,Colorado,80219,West,Furniture,Bookcases,90.882,3,0.7,-190.8522
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,254.352,3,0.2,0.0
+First Class,Consumer,United States,Clifton,New Jersey,7011,East,Furniture,Furnishings,254.9,5,0.0,76.47
+Second Class,Consumer,United States,Aurora,Colorado,80013,West,Furniture,Bookcases,145.764,6,0.7,-247.7988
+First Class,Home Office,United States,San Diego,California,92037,West,Furniture,Tables,1673.184,12,0.2,20.9148
+First Class,Corporate,United States,Seattle,Washington,98105,West,Furniture,Furnishings,12.18,7,0.0,3.8976
+First Class,Consumer,United States,Lowell,Massachusetts,1852,East,Furniture,Furnishings,45.84,3,0.0,15.5856
+First Class,Consumer,United States,Lowell,Massachusetts,1852,East,Furniture,Furnishings,9.82,2,0.0,3.2406
+Same Day,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,18.84,3,0.0,6.0288
+First Class,Home Office,United States,Lancaster,Ohio,43130,East,Furniture,Furnishings,60.672,6,0.2,12.8928
+Second Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,210.68,2,0.0,50.5632
+Standard Class,Consumer,United States,Amarillo,Texas,79109,Central,Furniture,Furnishings,23.076,3,0.6,-10.9611
+First Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,75.384,9,0.6,-20.7306
+Second Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Bookcases,435.999,3,0.15,5.1294
+Standard Class,Home Office,United States,Cambridge,Massachusetts,2138,East,Furniture,Furnishings,26.72,1,0.0,11.7568
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,21.184,1,0.2,4.7664
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Furniture,Bookcases,307.666,2,0.15,28.9568
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Furniture,Furnishings,4.16,2,0.0,1.7472
+Standard Class,Corporate,United States,San Francisco,California,94109,West,Furniture,Furnishings,16.02,6,0.0,6.0876
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Furnishings,141.42,5,0.6,-187.3815
+Standard Class,Corporate,United States,East Point,Georgia,30344,South,Furniture,Furnishings,27.42,3,0.0,9.3228
+Standard Class,Home Office,United States,Arlington,Virginia,22204,South,Furniture,Furnishings,61.1,5,0.0,18.33
+Second Class,Consumer,United States,Seattle,Washington,98115,West,Furniture,Furnishings,23.88,3,0.0,10.5072
+First Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Bookcases,89.0664,1,0.32,-17.0274
+Standard Class,Corporate,United States,Los Angeles,California,90049,West,Furniture,Furnishings,148.02,3,0.0,41.4456
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Furnishings,41.96,2,0.0,10.9096
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,64.96,5,0.6,-43.848
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Furniture,Furnishings,72.78,3,0.6,-70.9605
+Standard Class,Corporate,United States,Lakeland,Florida,33801,South,Furniture,Tables,562.2925,7,0.45,-255.5875
+Standard Class,Home Office,United States,New York City,New York,10035,East,Furniture,Furnishings,56.52,9,0.0,21.4776
+Standard Class,Consumer,United States,San Diego,California,92037,West,Furniture,Tables,557.728,4,0.2,6.9716
+First Class,Corporate,United States,Rapid City,South Dakota,57701,Central,Furniture,Bookcases,141.96,2,0.0,39.7488
+Standard Class,Consumer,United States,Baltimore,Maryland,21215,East,Furniture,Tables,239.372,2,0.3,-23.9372
+Standard Class,Consumer,United States,San Diego,California,92105,West,Furniture,Furnishings,96.96,6,0.0,33.936
+Standard Class,Consumer,United States,San Diego,California,92105,West,Furniture,Bookcases,512.499,3,0.15,-30.147
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Furniture,Tables,863.128,7,0.2,-32.3673
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Tables,2036.86,7,0.0,366.6348
+Standard Class,Consumer,United States,Springfield,Oregon,97477,West,Furniture,Tables,277.5,4,0.5,-188.7
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,1252.704,8,0.4,-480.2032
+Standard Class,Corporate,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,22.608,3,0.6,-10.1736
+Standard Class,Corporate,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,1.892,1,0.6,-0.9933
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,187.76,4,0.0,76.9816
+First Class,Consumer,United States,Durham,North Carolina,27707,South,Furniture,Furnishings,335.744,2,0.2,25.1808
+Same Day,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,11.82,3,0.0,4.728
+Standard Class,Consumer,United States,Daytona Beach,Florida,32114,South,Furniture,Tables,191.5155,1,0.45,-76.6062
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Furniture,Furnishings,44.46,5,0.6,-17.784
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,31.776,3,0.6,-19.0656
+Second Class,Home Office,United States,Troy,New York,12180,East,Furniture,Furnishings,82.64,2,0.0,7.4376
+Second Class,Consumer,United States,Sandy Springs,Georgia,30328,South,Furniture,Bookcases,1266.86,7,0.0,291.3778
+Standard Class,Consumer,United States,Jacksonville,Florida,32216,South,Furniture,Tables,933.262,4,0.45,-458.1468
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,Furniture,Furnishings,43.936,4,0.2,6.0412
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,85.44,3,0.0,31.6128
+Second Class,Consumer,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,4.712,2,0.6,-1.8848
+Standard Class,Consumer,United States,Aurora,Illinois,60505,Central,Furniture,Tables,69.375,1,0.5,-47.175
+Second Class,Home Office,United States,Saint Charles,Illinois,60174,Central,Furniture,Furnishings,51.756,3,0.6,-33.6414
+Standard Class,Corporate,United States,Charlotte,North Carolina,28205,South,Furniture,Furnishings,4.928,2,0.2,0.7392
+Standard Class,Consumer,United States,Bakersfield,California,93309,West,Furniture,Tables,486.368,4,0.2,36.4776
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Tables,376.509,3,0.3,-43.0296
+Standard Class,Consumer,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,62.72,4,0.0,24.4608
+Standard Class,Consumer,United States,Knoxville,Tennessee,37918,South,Furniture,Furnishings,32.952,3,0.2,6.5904
+Standard Class,Corporate,United States,Lawrence,Massachusetts,1841,East,Furniture,Furnishings,31.4,5,0.0,13.188
+Standard Class,Corporate,United States,Lawrence,Massachusetts,1841,East,Furniture,Furnishings,9.48,1,0.0,3.792
+Standard Class,Corporate,United States,Lawrence,Massachusetts,1841,East,Furniture,Furnishings,24.3,5,0.0,10.449
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,32.448,2,0.2,7.3008
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Tables,373.47,5,0.4,-112.041
+Standard Class,Consumer,United States,Athens,Georgia,30605,South,Furniture,Furnishings,186.54,3,0.0,41.0388
+Second Class,Consumer,United States,El Paso,Texas,79907,Central,Furniture,Tables,913.43,5,0.3,-169.637
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Furniture,Tables,902.712,3,0.2,33.8517
+Standard Class,Home Office,United States,Fresno,California,93727,West,Furniture,Bookcases,120.666,2,0.15,21.294
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Furnishings,82.26,3,0.0,33.7266
+Standard Class,Home Office,United States,Danbury,Connecticut,6810,East,Furniture,Furnishings,27.46,2,0.0,9.8856
+Second Class,Consumer,United States,Franklin,Massachusetts,2038,East,Furniture,Furnishings,111.15,5,0.0,48.906
+Second Class,Consumer,United States,Franklin,Massachusetts,2038,East,Furniture,Tables,366.009,3,0.3,-47.0583
+Standard Class,Corporate,United States,Newark,Delaware,19711,East,Furniture,Furnishings,83.92,4,0.0,5.8744
+Standard Class,Corporate,United States,Newark,Delaware,19711,East,Furniture,Furnishings,39.98,2,0.0,9.1954
+Same Day,Corporate,United States,Burlington,North Carolina,27217,South,Furniture,Tables,630.024,4,0.4,-199.5076
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Tables,933.408,4,0.3,-173.3472
+First Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Tables,286.85,1,0.0,63.107
+Standard Class,Consumer,United States,Lakewood,New Jersey,8701,East,Furniture,Furnishings,40.48,2,0.0,17.4064
+Standard Class,Consumer,United States,Lakewood,New Jersey,8701,East,Furniture,Bookcases,2154.9,5,0.0,129.294
+Second Class,Consumer,United States,Reading,Pennsylvania,19601,East,Furniture,Furnishings,303.92,5,0.2,-30.392
+Standard Class,Corporate,United States,Baltimore,Maryland,21215,East,Furniture,Furnishings,274.2,10,0.0,112.422
+Second Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Furniture,Furnishings,9.96,5,0.6,-6.723
+First Class,Corporate,United States,Cranston,Rhode Island,2920,East,Furniture,Tables,240.744,4,0.3,-13.7568
+First Class,Corporate,United States,Cranston,Rhode Island,2920,East,Furniture,Furnishings,35.0,4,0.0,14.7
+First Class,Corporate,United States,Cranston,Rhode Island,2920,East,Furniture,Furnishings,210.68,2,0.0,50.5632
+First Class,Corporate,United States,Cranston,Rhode Island,2920,East,Furniture,Tables,637.896,3,0.3,-127.5792
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Furniture,Furnishings,127.88,5,0.6,-67.137
+Standard Class,Corporate,United States,Noblesville,Indiana,46060,Central,Furniture,Tables,2678.94,6,0.0,241.1046
+Standard Class,Home Office,United States,Clarksville,Tennessee,37042,South,Furniture,Bookcases,387.136,4,0.2,-14.5176
+Standard Class,Home Office,United States,Clarksville,Tennessee,37042,South,Furniture,Furnishings,77.952,3,0.2,-11.6928
+Same Day,Consumer,United States,Seattle,Washington,98115,West,Furniture,Furnishings,199.8,10,0.0,71.928
+Second Class,Consumer,United States,Arlington,Virginia,22204,South,Furniture,Furnishings,18.69,7,0.0,7.1022
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,73.784,2,0.6,-77.4732
+Second Class,Consumer,United States,Frisco,Texas,75034,Central,Furniture,Furnishings,30.336,6,0.6,-17.4432
+Standard Class,Consumer,United States,Paterson,New Jersey,7501,East,Furniture,Furnishings,12.99,1,0.0,1.5588
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,54.992,14,0.2,8.9362
+Same Day,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,51.264,6,0.2,7.6896
+Standard Class,Corporate,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,20.24,1,0.0,8.7032
+Standard Class,Corporate,United States,Columbus,Georgia,31907,South,Furniture,Furnishings,39.92,4,0.0,11.1776
+First Class,Corporate,United States,Aurora,Colorado,80013,West,Furniture,Furnishings,24.64,4,0.2,4.004
+First Class,Consumer,United States,Springfield,Virginia,22153,South,Furniture,Tables,1056.86,7,0.0,158.529
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,2.328,2,0.6,-0.7566
+Standard Class,Home Office,United States,Sanford,Florida,32771,South,Furniture,Furnishings,220.704,6,0.2,-8.2764
+First Class,Consumer,United States,Concord,New Hampshire,3301,East,Furniture,Furnishings,102.3,1,0.0,26.598
+Standard Class,Consumer,United States,Rochester,Minnesota,55901,Central,Furniture,Tables,607.52,2,0.0,97.2032
+Second Class,Corporate,United States,San Marcos,Texas,78666,Central,Furniture,Furnishings,10.332,3,0.6,-5.9409
+First Class,Consumer,United States,Greeley,Colorado,80634,West,Furniture,Furnishings,11.664,3,0.2,3.3534
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,56.96,2,0.0,21.0752
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,353.568,2,0.2,-44.196
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,13.96,2,0.0,6.7008
+Standard Class,Corporate,United States,Los Angeles,California,90004,West,Furniture,Tables,399.672,7,0.2,-14.9877
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,30.56,5,0.6,-19.864
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Tables,481.176,2,0.4,-120.294
+First Class,Consumer,United States,Bethlehem,Pennsylvania,18018,East,Furniture,Bookcases,177.45,5,0.5,-78.078
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,130.98,2,0.5,-89.0664
+Standard Class,Consumer,United States,Seattle,Washington,98105,West,Furniture,Furnishings,139.58,7,0.0,39.0824
+Standard Class,Corporate,United States,Jacksonville,North Carolina,28540,South,Furniture,Furnishings,4.712,1,0.2,1.4136
+Same Day,Consumer,United States,Seattle,Washington,98103,West,Furniture,Furnishings,14.19,3,0.0,5.5341
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Furniture,Bookcases,723.92,5,0.2,-81.441
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,21.968,4,0.6,-15.9268
+Second Class,Consumer,United States,Lakewood,California,90712,West,Furniture,Furnishings,94.2,5,0.0,39.564
+Second Class,Consumer,United States,Cleveland,Ohio,44105,East,Furniture,Furnishings,182.352,3,0.2,-18.2352
+Standard Class,Consumer,United States,Decatur,Illinois,62521,Central,Furniture,Furnishings,7.692,1,0.6,-3.6537
+First Class,Consumer,United States,Mansfield,Texas,76063,Central,Furniture,Tables,517.405,5,0.3,-81.3065
+Second Class,Home Office,United States,San Francisco,California,94109,West,Furniture,Tables,300.904,1,0.2,11.2839
+Standard Class,Corporate,United States,Nashville,Tennessee,37211,South,Furniture,Furnishings,31.168,4,0.2,9.3504
+Standard Class,Corporate,United States,Nashville,Tennessee,37211,South,Furniture,Tables,120.96,2,0.4,-28.224
+First Class,Corporate,United States,Los Angeles,California,90008,West,Furniture,Bookcases,305.9745,3,0.15,25.1979
+Standard Class,Consumer,United States,San Diego,California,92037,West,Furniture,Tables,626.352,3,0.2,-23.4882
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Bookcases,359.499,3,0.15,-29.6058
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Furniture,Furnishings,6.984,2,0.6,-4.5396
+Standard Class,Corporate,United States,Murfreesboro,Tennessee,37130,South,Furniture,Furnishings,53.352,3,0.2,16.0056
+Standard Class,Corporate,United States,Murfreesboro,Tennessee,37130,South,Furniture,Bookcases,131.104,2,0.2,8.194
+Second Class,Corporate,United States,Seattle,Washington,98105,West,Furniture,Furnishings,126.3,3,0.0,40.416
+First Class,Consumer,United States,Hillsboro,Oregon,97123,West,Furniture,Furnishings,11.032,1,0.2,3.0338
+Standard Class,Corporate,United States,San Diego,California,92105,West,Furniture,Furnishings,210.58,2,0.0,12.6348
+Standard Class,Corporate,United States,Columbia,Maryland,21044,East,Furniture,Furnishings,27.42,3,0.0,9.3228
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Bookcases,287.976,3,0.2,7.1994
+First Class,Corporate,United States,Houston,Texas,77070,Central,Furniture,Bookcases,1227.9984,6,0.32,-36.1176
+Standard Class,Corporate,United States,Twin Falls,Idaho,83301,West,Furniture,Tables,1128.39,3,0.0,259.5297
+Standard Class,Consumer,United States,Monroe,North Carolina,28110,South,Furniture,Bookcases,77.728,2,0.2,-3.8864
+First Class,Consumer,United States,Oklahoma City,Oklahoma,73120,Central,Furniture,Bookcases,341.96,2,0.0,54.7136
+Standard Class,Corporate,United States,Utica,New York,13501,East,Furniture,Furnishings,40.48,2,0.0,14.5728
+Standard Class,Home Office,United States,Harrisonburg,Virginia,22801,South,Furniture,Furnishings,39.96,2,0.0,14.3856
+First Class,Corporate,United States,Raleigh,North Carolina,27604,South,Furniture,Furnishings,159.84,10,0.2,45.954
+Standard Class,Home Office,United States,Paterson,New Jersey,7501,East,Furniture,Furnishings,8.92,4,0.0,3.9248
+First Class,Consumer,United States,Chicago,Illinois,60653,Central,Furniture,Bookcases,493.43,5,0.3,-70.49
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Furniture,Furnishings,70.68,12,0.0,31.0992
+Standard Class,Home Office,United States,Stockton,California,95207,West,Furniture,Furnishings,629.64,9,0.0,107.0388
+Standard Class,Consumer,United States,Texas City,Texas,77590,Central,Furniture,Tables,489.23,2,0.3,41.934
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Furnishings,312.03,3,0.0,43.6842
+Standard Class,Consumer,United States,Decatur,Illinois,62521,Central,Furniture,Furnishings,32.064,3,0.6,-12.8256
+Standard Class,Corporate,United States,Virginia Beach,Virginia,23464,South,Furniture,Furnishings,177.68,2,0.0,46.1968
+Standard Class,Corporate,United States,Coral Gables,Florida,33134,South,Furniture,Furnishings,11.568,3,0.2,2.6028
+Standard Class,Consumer,United States,Rockford,Illinois,61107,Central,Furniture,Tables,626.1,3,0.5,-538.446
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Tables,609.98,4,0.3,-113.282
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Tables,211.372,2,0.3,-45.294
+Standard Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,99.95,5,0.0,22.9885
+Standard Class,Corporate,United States,Green Bay,Wisconsin,54302,Central,Furniture,Furnishings,16.74,2,0.0,4.3524
+Standard Class,Consumer,United States,Jackson,Tennessee,38301,South,Furniture,Tables,934.956,6,0.4,-249.3216
+Second Class,Consumer,United States,Jacksonville,Florida,32216,South,Furniture,Bookcases,155.456,4,0.2,-7.7728
+First Class,Consumer,United States,Hialeah,Florida,33012,South,Furniture,Furnishings,21.0,3,0.2,5.775
+First Class,Consumer,United States,Virginia Beach,Virginia,23464,South,Furniture,Furnishings,273.96,2,0.0,71.2296
+First Class,Consumer,United States,Virginia Beach,Virginia,23464,South,Furniture,Furnishings,756.8,5,0.0,75.68
+Second Class,Consumer,United States,Los Angeles,California,90008,West,Furniture,Bookcases,344.981,7,0.15,28.4102
+First Class,Corporate,United States,Dallas,Texas,75220,Central,Furniture,Tables,127.785,1,0.3,-31.0335
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Furnishings,159.04,5,0.6,-194.824
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Tables,145.98,2,0.5,-99.2664
+Standard Class,Consumer,United States,Jacksonville,North Carolina,28540,South,Furniture,Furnishings,77.952,3,0.2,12.6672
+Standard Class,Corporate,United States,Springfield,Missouri,65807,Central,Furniture,Furnishings,9.68,2,0.0,3.7752
+Standard Class,Corporate,United States,Columbia,Tennessee,38401,South,Furniture,Tables,1875.258,7,0.4,-968.8833
+Same Day,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,5.82,2,0.0,2.7354
+First Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,135.8,7,0.0,66.542
+Second Class,Consumer,United States,Springfield,Virginia,22153,South,Furniture,Furnishings,29.46,6,0.0,9.7218
+First Class,Home Office,United States,Fort Collins,Colorado,80525,West,Furniture,Furnishings,98.328,3,0.2,9.8328
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,37.74,3,0.0,12.8316
+Standard Class,Consumer,United States,Marlborough,Massachusetts,1752,East,Furniture,Furnishings,14.82,3,0.0,6.2244
+Standard Class,Consumer,United States,Marlborough,Massachusetts,1752,East,Furniture,Furnishings,191.82,3,0.0,61.3824
+Same Day,Corporate,United States,Seattle,Washington,98103,West,Furniture,Tables,283.56,4,0.0,45.3696
+Standard Class,Corporate,United States,Chandler,Arizona,85224,West,Furniture,Tables,73.915,1,0.5,-45.8273
+Standard Class,Consumer,United States,Hollywood,Florida,33021,South,Furniture,Furnishings,337.088,4,0.2,16.8544
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,74.76,7,0.0,23.9232
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Tables,364.776,3,0.2,27.3582
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Furniture,Tables,1115.17,7,0.0,334.551
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,11.352,3,0.2,2.6961
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Furnishings,318.08,4,0.0,34.9888
+Second Class,Corporate,United States,Troy,Ohio,45373,East,Furniture,Bookcases,482.94,6,0.5,-376.6932
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,64.96,5,0.6,-84.448
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,31.968,2,0.2,6.3936
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Furniture,Furnishings,9.552,3,0.6,-3.8208
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Furniture,Furnishings,5.344,4,0.6,-2.1376
+Second Class,Consumer,United States,Cleveland,Ohio,44105,East,Furniture,Bookcases,301.47,3,0.5,-241.176
+Standard Class,Corporate,United States,Laurel,Maryland,20707,East,Furniture,Furnishings,27.46,2,0.0,9.8856
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,19.312,2,0.2,3.1382
+Standard Class,Consumer,United States,Eau Claire,Wisconsin,54703,Central,Furniture,Bookcases,405.86,7,0.0,32.4688
+Same Day,Home Office,United States,Oxnard,California,93030,West,Furniture,Furnishings,31.96,2,0.0,1.598
+Standard Class,Consumer,United States,Westminster,California,92683,West,Furniture,Furnishings,51.75,1,0.0,15.525
+First Class,Consumer,United States,Perth Amboy,New Jersey,8861,East,Furniture,Bookcases,120.98,1,0.0,12.098
+Standard Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Furnishings,39.88,2,0.0,11.1664
+Standard Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Furnishings,79.44,3,0.0,28.5984
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Bookcases,301.47,3,0.5,-204.9996
+First Class,Consumer,United States,Lafayette,Louisiana,70506,South,Furniture,Tables,1504.52,4,0.0,346.0396
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Furnishings,94.68,9,0.0,31.2444
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Tables,568.728,3,0.2,28.4364
+First Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,147.568,2,0.2,-3.6892
+Standard Class,Home Office,United States,San Francisco,California,94122,West,Furniture,Bookcases,119.833,1,0.15,7.049
+Second Class,Consumer,United States,Columbia,Missouri,65203,Central,Furniture,Furnishings,332.94,3,0.0,53.2704
+First Class,Home Office,United States,North Las Vegas,Nevada,89031,West,Furniture,Furnishings,14.56,2,0.0,5.5328
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,10.02,3,0.0,4.4088
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Bookcases,163.88,2,0.0,40.97
+First Class,Consumer,United States,Monroe,North Carolina,28110,South,Furniture,Furnishings,18.176,1,0.2,4.7712
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Furniture,Tables,457.485,3,0.3,-84.9615
+Standard Class,Corporate,United States,Cleveland,Ohio,44105,East,Furniture,Bookcases,115.96,4,0.5,-64.9376
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,183.92,4,0.0,31.2664
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,11.376,3,0.6,-5.688
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,66.112,4,0.6,-84.2928
+First Class,Consumer,United States,Edmonds,Washington,98026,West,Furniture,Furnishings,80.96,4,0.0,34.8128
+First Class,Consumer,United States,Coral Springs,Florida,33065,South,Furniture,Bookcases,314.352,3,0.2,-15.7176
+First Class,Home Office,United States,Troy,Ohio,45373,East,Furniture,Tables,455.97,5,0.4,-106.393
+First Class,Home Office,United States,Troy,Ohio,45373,East,Furniture,Furnishings,30.144,2,0.2,8.2896
+Standard Class,Consumer,United States,Moreno Valley,California,92553,West,Furniture,Furnishings,842.72,8,0.0,202.2528
+Standard Class,Consumer,United States,Moreno Valley,California,92553,West,Furniture,Furnishings,41.96,2,0.0,10.9096
+Second Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,313.722,3,0.4,-99.3453
+Second Class,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,45.98,1,0.0,7.8166
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Furnishings,22.14,3,0.0,6.4206
+First Class,Corporate,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,41.568,4,0.2,-4.1568
+Standard Class,Consumer,United States,Mesa,Arizona,85204,West,Furniture,Furnishings,120.576,8,0.2,33.1584
+First Class,Consumer,United States,New York City,New York,10011,East,Furniture,Bookcases,801.568,2,0.2,-10.0196
+Standard Class,Consumer,United States,Tucson,Arizona,85705,West,Furniture,Furnishings,4.272,2,0.2,0.9612
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,209.148,2,0.4,-66.2302
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,12.07,1,0.0,3.9831
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,87.92,5,0.2,15.386
+Standard Class,Consumer,United States,Seattle,Washington,98115,West,Furniture,Furnishings,10.11,3,0.0,3.2352
+Standard Class,Corporate,United States,Buffalo,New York,14215,East,Furniture,Furnishings,199.9,5,0.0,39.98
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Furniture,Tables,103.481,1,0.3,-16.2613
+Standard Class,Consumer,United States,Tulsa,Oklahoma,74133,Central,Furniture,Furnishings,477.3,5,0.0,138.417
+Standard Class,Corporate,United States,Seattle,Washington,98115,West,Furniture,Furnishings,31.96,2,0.0,1.598
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,166.5,2,0.4,-66.6
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,101.4,5,0.0,38.532
+Second Class,Corporate,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,51.56,2,0.6,-61.872
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Bookcases,781.864,10,0.32,-137.976
+Same Day,Consumer,United States,Wheeling,West Virginia,26003,East,Furniture,Tables,673.344,3,0.3,-76.9536
+Standard Class,Corporate,United States,Broken Arrow,Oklahoma,74012,Central,Furniture,Tables,1592.85,7,0.0,350.427
+Standard Class,Consumer,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,26.94,3,0.0,11.3148
+Standard Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Furnishings,32.04,3,0.0,8.01
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Bookcases,204.6664,1,0.32,-6.0196
+First Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Furnishings,199.9,5,0.0,39.98
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,8.856,3,0.6,-6.8634
+First Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Bookcases,477.666,2,0.15,84.294
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Furniture,Bookcases,369.1992,3,0.32,-114.0174
+Standard Class,Corporate,United States,Broomfield,Colorado,80020,West,Furniture,Furnishings,68.432,7,0.2,8.554
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Furnishings,71.12,5,0.2,9.779
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Furnishings,5.312,2,0.6,-1.5936
+First Class,Consumer,United States,Newark,Ohio,43055,East,Furniture,Furnishings,51.968,2,0.2,10.3936
+Same Day,Consumer,United States,Pomona,California,91767,West,Furniture,Furnishings,31.56,3,0.0,10.4148
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,400.784,1,0.2,-5.0098
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Furniture,Furnishings,24.7,5,0.6,-9.88
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Furniture,Furnishings,302.72,5,0.6,-378.4
+Standard Class,Home Office,United States,Sacramento,California,95823,West,Furniture,Furnishings,60.84,3,0.0,19.4688
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Furniture,Tables,376.866,3,0.4,-213.5574
+Second Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,282.84,4,0.0,19.7988
+First Class,Consumer,United States,Dallas,Texas,75220,Central,Furniture,Tables,307.314,3,0.3,-39.5118
+First Class,Consumer,United States,Dallas,Texas,75220,Central,Furniture,Bookcases,409.9992,3,0.32,-96.4704
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Furniture,Furnishings,137.54,2,0.0,55.016
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Furniture,Tables,730.2,4,0.0,94.926
+Second Class,Consumer,United States,Concord,North Carolina,28027,South,Furniture,Tables,4297.644,13,0.4,-1862.3124
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Bookcases,3406.664,8,0.15,160.3136
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,595.38,6,0.0,297.69
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,97.44,3,0.0,35.0784
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Furniture,Furnishings,119.94,3,0.0,23.988
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Furniture,Furnishings,12.42,3,0.0,4.4712
+Standard Class,Consumer,United States,Bakersfield,California,93309,West,Furniture,Furnishings,41.6,4,0.0,14.144
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,201.04,8,0.0,54.2808
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Bookcases,613.9992,3,0.32,-18.0588
+Same Day,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,30.336,4,0.2,9.48
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Furnishings,19.96,2,0.0,5.5888
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,273.568,2,0.2,-34.196
+Standard Class,Corporate,United States,Green Bay,Wisconsin,54302,Central,Furniture,Furnishings,18.96,2,0.0,7.584
+Standard Class,Corporate,United States,Burlington,Vermont,5408,East,Furniture,Bookcases,4404.9,5,0.0,1013.127
+Same Day,Consumer,United States,Los Angeles,California,90008,West,Furniture,Tables,364.08,2,0.2,9.102
+Same Day,Consumer,United States,Los Angeles,California,90008,West,Furniture,Tables,71.088,2,0.2,-1.7772
+Standard Class,Consumer,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,10.984,2,0.6,-7.9634
+Second Class,Consumer,United States,Richmond,Virginia,23223,South,Furniture,Tables,292.1,2,0.0,58.42
+Standard Class,Home Office,United States,Hialeah,Florida,33012,South,Furniture,Bookcases,339.92,5,0.2,8.498
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Furnishings,17.496,3,0.6,-10.0602
+Second Class,Corporate,United States,Paterson,New Jersey,7501,East,Furniture,Furnishings,8.28,2,0.0,2.9808
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Bookcases,1023.332,5,0.32,-30.098
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,7.38,1,0.0,2.1402
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,Furniture,Furnishings,45.568,2,0.2,9.6832
+Standard Class,Corporate,United States,Saint Petersburg,Florida,33710,South,Furniture,Furnishings,173.208,7,0.2,45.4671
+Second Class,Consumer,United States,Beaumont,Texas,77705,Central,Furniture,Furnishings,8.624,7,0.6,-2.5872
+First Class,Consumer,United States,La Porte,Texas,77571,Central,Furniture,Furnishings,14.0,4,0.6,-6.3
+First Class,Consumer,United States,Decatur,Illinois,62521,Central,Furniture,Furnishings,61.544,7,0.6,-40.0036
+Second Class,Home Office,United States,Los Angeles,California,90008,West,Furniture,Furnishings,511.5,5,0.0,132.99
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,12.56,2,0.0,4.0192
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,214.7,5,0.0,83.733
+Standard Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Furnishings,50.32,4,0.0,21.1344
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Furniture,Tables,3393.68,8,0.0,610.8624
+Standard Class,Home Office,United States,Richmond,Indiana,47374,Central,Furniture,Furnishings,18.96,2,0.0,8.532
+First Class,Corporate,United States,Mason,Ohio,45040,East,Furniture,Furnishings,68.704,2,0.2,16.3172
+Second Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,95.2,5,0.0,27.608
+Standard Class,Consumer,United States,Fairfield,Ohio,45014,East,Furniture,Furnishings,466.32,3,0.2,34.974
+Standard Class,Consumer,United States,Fairfield,Ohio,45014,East,Furniture,Furnishings,82.64,2,0.2,0.0
+Standard Class,Home Office,United States,Springfield,Ohio,45503,East,Furniture,Tables,330.588,1,0.4,-143.2548
+Standard Class,Consumer,United States,Louisville,Colorado,80027,West,Furniture,Furnishings,22.752,3,0.2,7.11
+Standard Class,Consumer,United States,Carrollton,Texas,75007,Central,Furniture,Furnishings,25.128,3,0.6,-6.9102
+First Class,Corporate,United States,Anaheim,California,92804,West,Furniture,Furnishings,131.88,7,0.0,55.3896
+First Class,Corporate,United States,Anaheim,California,92804,West,Furniture,Furnishings,207.35,5,0.0,24.882
+First Class,Corporate,United States,Anaheim,California,92804,West,Furniture,Furnishings,44.67,3,0.0,12.0609
+Second Class,Consumer,United States,Marion,Iowa,52302,Central,Furniture,Furnishings,14.91,3,0.0,4.6221
+Same Day,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,24.27,3,0.0,8.7372
+Standard Class,Consumer,United States,San Bernardino,California,92404,West,Furniture,Bookcases,683.332,4,0.15,-40.196
+Second Class,Corporate,United States,Los Angeles,California,90049,West,Furniture,Tables,71.088,2,0.2,-1.7772
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,60.35,5,0.0,19.9155
+Second Class,Corporate,United States,Los Angeles,California,90045,West,Furniture,Tables,273.568,2,0.2,10.2588
+First Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Bookcases,383.4656,4,0.32,-67.6704
+Second Class,Corporate,United States,Newark,Delaware,19711,East,Furniture,Furnishings,13.4,1,0.0,6.432
+Second Class,Consumer,United States,Lafayette,Louisiana,70506,South,Furniture,Tables,85.98,1,0.0,22.3548
+Second Class,Consumer,United States,Miami,Florida,33180,South,Furniture,Furnishings,25.248,3,0.2,4.1028
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Furniture,Furnishings,91.96,2,0.0,15.6332

@@ -1,0 +1,278 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Standard Class,Home Office,United States,Providence,Rhode Island,2908,East,Technology,Copiers,5399.91,9,0.0,2591.9568
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Technology,Machines,4899.93,7,0.0,2400.9657
+Standard Class,Corporate,United States,Lakewood,New Jersey,8701,East,Technology,Machines,9099.93,7,0.0,2365.9818
+Standard Class,Corporate,United States,Springfield,Missouri,65807,Central,Technology,Copiers,4899.93,7,0.0,2302.9671
+First Class,Corporate,United States,Seattle,Washington,98115,West,Technology,Copiers,3149.93,7,0.0,1480.4671
+First Class,Corporate,United States,Mobile,Alabama,36608,South,Technology,Machines,3040.0,8,0.0,1459.2
+Standard Class,Consumer,United States,Florence,Kentucky,41042,South,Technology,Machines,3080.0,7,0.0,1416.8
+Standard Class,Consumer,United States,Jamestown,New York,14701,East,Technology,Phones,4548.81,7,0.0,1228.1787
+Standard Class,Home Office,United States,Los Angeles,California,90032,West,Technology,Copiers,3359.952,6,0.2,1049.985
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Copiers,2799.944,7,0.2,1014.9797
+First Class,Home Office,United States,Los Angeles,California,90049,West,Technology,Copiers,2879.952,6,0.2,1007.9832
+Standard Class,Corporate,United States,Springfield,Virginia,22153,South,Technology,Phones,3499.93,7,0.0,909.9818
+Standard Class,Home Office,United States,Jackson,Michigan,49201,Central,Technology,Accessories,1928.78,7,0.0,829.3754
+First Class,Home Office,United States,New York City,New York,10035,East,Technology,Machines,1704.89,11,0.0,767.2005
+Standard Class,Consumer,United States,Columbus,Georgia,31907,South,Technology,Phones,2939.93,7,0.0,764.3818
+Same Day,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,2309.65,7,0.0,762.1845
+Standard Class,Consumer,United States,Newport News,Virginia,23602,South,Technology,Copiers,1599.92,8,0.0,751.9624
+First Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,1349.91,9,0.0,661.4559
+Standard Class,Corporate,United States,Springfield,Virginia,22153,South,Technology,Accessories,1979.7,6,0.0,653.301
+Standard Class,Consumer,United States,Washington,District of Columbia,20016,East,Technology,Machines,1379.92,8,0.0,648.5624
+First Class,Home Office,United States,New York City,New York,10024,East,Technology,Phones,2399.6,8,0.0,647.892
+Standard Class,Consumer,United States,San Diego,California,92037,West,Technology,Accessories,3347.37,13,0.0,636.0003
+First Class,Consumer,United States,Newark,Ohio,43055,East,Technology,Accessories,2025.36,6,0.2,607.608
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,1399.93,7,0.0,601.9699
+Same Day,Consumer,United States,Santa Ana,California,92704,West,Technology,Accessories,1399.93,7,0.0,601.9699
+Standard Class,Consumer,United States,Arlington,Virginia,22204,South,Technology,Phones,1871.88,12,0.0,561.564
+Second Class,Home Office,United States,Dover,New Hampshire,3820,East,Technology,Accessories,2249.91,9,0.0,517.4793
+Second Class,Corporate,United States,Henderson,Kentucky,42420,South,Technology,Accessories,2249.91,9,0.0,517.4793
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,1979.89,11,0.0,494.9725
+Standard Class,Consumer,United States,Los Angeles,California,90008,West,Technology,Accessories,1049.44,8,0.0,440.7648
+First Class,Corporate,United States,New York City,New York,10011,East,Technology,Accessories,899.91,9,0.0,395.9604
+Standard Class,Consumer,United States,Columbus,Indiana,47201,Central,Technology,Phones,1454.49,9,0.0,378.1674
+Standard Class,Consumer,United States,Seattle,Washington,98115,West,Technology,Accessories,899.91,9,0.0,377.9622
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Technology,Phones,1114.4,7,0.2,376.11
+Same Day,Home Office,United States,Muskogee,Oklahoma,74403,Central,Technology,Phones,1439.92,8,0.0,374.3792
+First Class,Home Office,United States,Los Angeles,California,90008,West,Technology,Phones,4158.912,8,0.2,363.9048
+Standard Class,Corporate,United States,Bellingham,Washington,98226,West,Technology,Accessories,1099.5,10,0.0,362.835
+Standard Class,Consumer,United States,Lakewood,New Jersey,8701,East,Technology,Phones,1322.93,7,0.0,357.1911
+First Class,Consumer,United States,Chicago,Illinois,60610,Central,Technology,Phones,2735.952,6,0.2,341.994
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Technology,Machines,2973.32,7,0.2,334.4985
+Second Class,Consumer,United States,Tallahassee,Florida,32303,South,Technology,Phones,4367.896,13,0.2,327.5922
+Standard Class,Corporate,United States,Clinton,Maryland,20735,East,Technology,Phones,1259.93,7,0.0,327.5818
+Standard Class,Consumer,United States,Oceanside,New York,11572,East,Technology,Machines,629.93,7,0.0,296.0671
+Standard Class,Consumer,United States,Athens,Georgia,30605,South,Technology,Phones,1049.93,7,0.0,293.9804
+Standard Class,Corporate,United States,San Francisco,California,94110,West,Technology,Machines,767.952,6,0.2,287.982
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Technology,Machines,2548.56,6,0.2,286.713
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Phones,1091.93,7,0.0,272.9825
+Second Class,Home Office,United States,Austin,Texas,78745,Central,Technology,Phones,758.352,6,0.2,265.4232
+Second Class,Corporate,United States,Bossier City,Louisiana,71111,South,Technology,Accessories,646.74,6,0.0,258.696
+First Class,Corporate,United States,Los Angeles,California,90049,West,Technology,Phones,2575.944,7,0.2,257.5944
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,Technology,Accessories,799.92,10,0.2,239.976
+Standard Class,Consumer,United States,Edmond,Oklahoma,73034,Central,Technology,Phones,944.93,7,0.0,236.2325
+Second Class,Consumer,United States,Fairfield,Connecticut,6824,East,Technology,Phones,832.93,7,0.0,233.2204
+Standard Class,Consumer,United States,Little Rock,Arkansas,72209,South,Technology,Phones,881.93,7,0.0,229.3018
+Standard Class,Home Office,United States,Santa Barbara,California,93101,West,Technology,Phones,3023.928,9,0.2,226.7946
+First Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,773.94,6,0.0,224.4426
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Technology,Accessories,1496.16,9,0.0,224.424
+Standard Class,Corporate,United States,Nashville,Tennessee,37211,South,Technology,Phones,2239.936,8,0.2,223.9936
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,881.93,7,0.0,220.4825
+Standard Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,833.94,6,0.0,216.8244
+First Class,Home Office,United States,Broken Arrow,Oklahoma,74012,Central,Technology,Phones,821.94,6,0.0,213.7044
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,1119.888,14,0.2,209.979
+Same Day,Home Office,United States,Seattle,Washington,98105,West,Technology,Machines,2395.2,6,0.2,209.58
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,468.9,6,0.0,206.316
+First Class,Consumer,United States,Green Bay,Wisconsin,54302,Central,Technology,Accessories,468.9,6,0.0,206.316
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Technology,Accessories,1115.91,9,0.0,200.8638
+First Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,599.9,10,0.0,191.968
+Standard Class,Corporate,United States,Springfield,Ohio,45503,East,Technology,Accessories,895.944,7,0.2,190.3881
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,Technology,Accessories,559.92,8,0.0,190.3728
+Second Class,Home Office,United States,Henderson,Kentucky,42420,South,Technology,Phones,671.93,7,0.0,188.1404
+Standard Class,Home Office,United States,Jackson,Michigan,49201,Central,Technology,Phones,657.93,7,0.0,184.2204
+Standard Class,Consumer,United States,Jonesboro,Arkansas,72401,South,Technology,Phones,699.93,7,0.0,181.9818
+Standard Class,Corporate,United States,Sparks,Nevada,89431,West,Technology,Machines,2396.4,10,0.2,179.73
+Standard Class,Consumer,United States,Tucson,Arizona,85705,West,Technology,Accessories,1023.936,8,0.2,179.1888
+Second Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,1071.0,9,0.0,171.36
+Standard Class,Home Office,United States,New York City,New York,10009,East,Technology,Accessories,559.93,7,0.0,167.979
+Standard Class,Home Office,United States,New York City,New York,10009,East,Technology,Accessories,449.91,9,0.0,157.4685
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,Technology,Accessories,717.12,9,0.2,152.388
+Second Class,Home Office,United States,Fort Worth,Texas,76106,Central,Technology,Phones,1718.4,6,0.2,150.36
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Technology,Phones,1979.928,9,0.2,148.4946
+Standard Class,Corporate,United States,Fresno,California,93727,West,Technology,Phones,377.928,9,0.2,141.723
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Technology,Phones,543.92,8,0.0,135.98
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,Technology,Phones,543.92,8,0.0,135.98
+Second Class,Home Office,United States,Saint Charles,Illinois,60174,Central,Technology,Accessories,637.44,8,0.2,135.456
+Second Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,279.86,14,0.0,134.3328
+Second Class,Consumer,United States,Los Angeles,California,90049,West,Technology,Accessories,435.84,12,0.0,130.752
+First Class,Consumer,United States,Los Angeles,California,90032,West,Technology,Accessories,299.94,6,0.0,128.9742
+Second Class,Consumer,United States,San Francisco,California,94109,West,Technology,Phones,1113.504,12,0.2,125.2692
+First Class,Corporate,United States,Richardson,Texas,75080,Central,Technology,Phones,1097.544,7,0.2,123.4737
+Standard Class,Consumer,United States,Richmond,Indiana,47374,Central,Technology,Phones,440.91,9,0.0,123.4548
+Second Class,Corporate,United States,Concord,California,94521,West,Technology,Phones,1626.192,9,0.2,121.9644
+Standard Class,Corporate,United States,Plainfield,New Jersey,7060,East,Technology,Machines,319.92,8,0.0,118.3704
+First Class,Corporate,United States,Houston,Texas,77041,Central,Technology,Phones,946.344,7,0.2,118.293
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,946.344,7,0.2,118.293
+Standard Class,Corporate,United States,Charlotte,North Carolina,28205,South,Technology,Phones,978.84,9,0.2,110.1195
+Second Class,Consumer,United States,Dublin,Ohio,43017,East,Technology,Accessories,479.952,6,0.2,107.9892
+Second Class,Corporate,United States,Arlington,Texas,76017,Central,Technology,Phones,863.64,9,0.2,107.955
+Standard Class,Home Office,United States,Los Angeles,California,90008,West,Technology,Phones,1212.848,7,0.2,106.1242
+Standard Class,Corporate,United States,Hattiesburg,Mississippi,39401,South,Technology,Accessories,239.7,6,0.0,105.468
+Standard Class,Corporate,United States,Bangor,Maine,4401,East,Technology,Accessories,255.42,9,0.0,104.7222
+Standard Class,Corporate,United States,Franklin,Wisconsin,53132,Central,Technology,Phones,384.45,11,0.0,103.8015
+Standard Class,Corporate,United States,Lakewood,New Jersey,8701,East,Technology,Phones,395.94,6,0.0,102.9444
+First Class,Consumer,United States,Woodstock,Georgia,30188,South,Technology,Accessories,272.61,13,0.0,98.1396
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,1619.91,9,0.0,97.1946
+Second Class,Consumer,United States,San Francisco,California,94109,West,Technology,Phones,862.344,7,0.2,97.0137
+Standard Class,Consumer,United States,Buffalo Grove,Illinois,60089,Central,Technology,Accessories,475.944,7,0.2,95.1888
+First Class,Consumer,United States,Toledo,Ohio,43615,East,Technology,Phones,629.958,7,0.4,94.4937
+Standard Class,Corporate,United States,Redondo Beach,California,90278,West,Technology,Phones,1075.088,14,0.2,94.0702
+Standard Class,Home Office,United States,Quincy,Massachusetts,2169,East,Technology,Accessories,258.9,10,0.0,93.204
+First Class,Consumer,United States,San Francisco,California,94109,West,Technology,Accessories,209.93,7,0.0,92.3692
+Standard Class,Consumer,United States,Great Falls,Montana,59405,West,Technology,Accessories,217.44,6,0.0,91.3248
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Technology,Phones,907.152,6,0.2,90.7152
+Second Class,Consumer,United States,Decatur,Illinois,62521,Central,Technology,Accessories,479.952,6,0.2,89.991
+Same Day,Consumer,United States,Plantation,Florida,33317,South,Technology,Accessories,447.944,7,0.2,89.5888
+Same Day,Consumer,United States,Thornton,Colorado,80229,West,Technology,Accessories,447.944,7,0.2,89.5888
+Second Class,Home Office,United States,Houston,Texas,77036,Central,Technology,Phones,1415.76,6,0.2,88.485
+First Class,Home Office,United States,Brownsville,Texas,78521,Central,Technology,Phones,251.944,7,0.2,88.1804
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,179.7,6,0.0,88.053
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Technology,Accessories,223.58,14,0.0,87.1962
+Same Day,Consumer,United States,Raleigh,North Carolina,27604,South,Technology,Phones,863.928,9,0.2,86.3928
+Second Class,Consumer,United States,Avondale,Arizona,85323,West,Technology,Phones,742.336,8,0.2,83.5128
+Second Class,Consumer,United States,Seattle,Washington,98105,West,Technology,Accessories,538.92,9,0.0,80.838
+Standard Class,Consumer,United States,Portland,Oregon,97206,West,Technology,Accessories,279.944,7,0.2,80.4839
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Phones,275.94,6,0.0,80.0226
+Same Day,Corporate,United States,Lorain,Ohio,44052,East,Technology,Accessories,383.952,6,0.2,76.7904
+Second Class,Home Office,United States,Charlotte,North Carolina,28205,South,Technology,Accessories,255.68,8,0.2,76.704
+Standard Class,Home Office,United States,Gastonia,North Carolina,28052,South,Technology,Accessories,408.744,7,0.2,76.6395
+Second Class,Corporate,United States,Decatur,Illinois,62521,Central,Technology,Accessories,408.744,7,0.2,76.6395
+Standard Class,Home Office,United States,Chicago,Illinois,60623,Central,Technology,Accessories,408.744,7,0.2,76.6395
+First Class,Corporate,United States,Los Angeles,California,90049,West,Technology,Accessories,254.24,7,0.0,76.272
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Technology,Phones,1007.944,7,0.2,75.5958
+First Class,Consumer,United States,Little Rock,Arkansas,72209,South,Technology,Accessories,179.94,6,0.0,75.5748
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Technology,Phones,668.16,9,0.2,75.168
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,545.916,14,0.4,72.7888
+Standard Class,Corporate,United States,Huntsville,Texas,77340,Central,Technology,Phones,719.952,6,0.2,71.9952
+Standard Class,Consumer,United States,Tallahassee,Florida,32303,South,Technology,Phones,705.544,7,0.2,70.5544
+Standard Class,Consumer,United States,Las Vegas,Nevada,89115,West,Technology,Phones,1123.128,9,0.2,70.1955
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,619.152,6,0.2,69.6546
+Standard Class,Corporate,United States,Burlington,Vermont,5408,East,Technology,Accessories,205.03,7,0.0,67.6599
+Second Class,Home Office,United States,Los Angeles,California,90036,West,Technology,Phones,889.536,8,0.2,66.7152
+Second Class,Home Office,United States,Brentwood,California,94513,West,Technology,Phones,761.544,7,0.2,66.6351
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Technology,Phones,666.344,7,0.2,66.6344
+Standard Class,Corporate,United States,Huntsville,Texas,77340,Central,Technology,Phones,755.944,7,0.2,66.1451
+Standard Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,227.46,6,0.0,65.9634
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Technology,Accessories,431.928,9,0.2,64.7892
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Accessories,431.928,9,0.2,64.7892
+Standard Class,Home Office,United States,Louisville,Kentucky,40214,South,Technology,Accessories,279.86,14,0.0,64.3678
+Standard Class,Corporate,United States,Seattle,Washington,98115,West,Technology,Accessories,265.93,7,0.0,63.8232
+Second Class,Consumer,United States,San Diego,California,92105,West,Technology,Accessories,148.32,9,0.0,63.7776
+Standard Class,Corporate,United States,Jackson,Michigan,49201,Central,Technology,Accessories,160.0,8,0.0,62.4
+First Class,Consumer,United States,Detroit,Michigan,48205,Central,Technology,Accessories,175.23,11,0.0,61.3305
+Second Class,Home Office,United States,Chicago,Illinois,60653,Central,Technology,Phones,812.736,8,0.2,60.9552
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Technology,Phones,604.752,6,0.2,60.4752
+Standard Class,Consumer,United States,San Diego,California,92037,West,Technology,Phones,601.536,8,0.2,60.1536
+Standard Class,Corporate,United States,San Francisco,California,94109,West,Technology,Accessories,166.16,8,0.0,59.8176
+Same Day,Home Office,United States,Reno,Nevada,89502,West,Technology,Phones,475.944,7,0.2,59.493
+Standard Class,Corporate,United States,Lawrence,Massachusetts,1841,East,Technology,Phones,209.5,10,0.0,58.66
+Standard Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,Technology,Phones,519.68,7,0.2,58.464
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Technology,Phones,775.728,6,0.2,58.1796
+Second Class,Home Office,United States,Los Angeles,California,90004,West,Technology,Phones,575.928,9,0.2,57.5928
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Technology,Phones,647.904,6,0.2,56.6916
+First Class,Consumer,United States,Louisville,Colorado,80027,West,Technology,Accessories,196.752,6,0.2,56.5662
+First Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Technology,Accessories,143.73,9,0.0,56.0547
+Second Class,Consumer,United States,Lawrence,Indiana,46226,Central,Technology,Accessories,155.34,6,0.0,55.9224
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Technology,Phones,537.544,7,0.2,53.7544
+Standard Class,Corporate,United States,Los Angeles,California,90045,West,Technology,Accessories,479.94,6,0.0,52.7934
+Second Class,Consumer,United States,Carrollton,Texas,75007,Central,Technology,Accessories,1399.944,7,0.2,52.4979
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Technology,Phones,419.944,7,0.2,52.493
+Standard Class,Consumer,United States,Pasadena,California,91104,West,Technology,Phones,419.944,7,0.2,52.493
+Second Class,Consumer,United States,Arlington,Virginia,22204,South,Technology,Phones,173.94,6,0.0,50.4426
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Technology,Phones,806.336,8,0.2,50.396
+Second Class,Home Office,United States,Jacksonville,North Carolina,28540,South,Technology,Accessories,167.944,7,0.2,50.3832
+Standard Class,Corporate,United States,Linden,New Jersey,7036,East,Technology,Accessories,115.36,7,0.0,49.6048
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Technology,Phones,657.552,6,0.2,49.3164
+Same Day,Consumer,United States,Seattle,Washington,98115,West,Technology,Accessories,447.93,9,0.0,49.2723
+Second Class,Home Office,United States,Albuquerque,New Mexico,87105,West,Technology,Phones,140.736,8,0.2,49.2576
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Technology,Accessories,279.944,7,0.2,48.9902
+Same Day,Corporate,United States,Yuma,Arizona,85364,West,Technology,Accessories,185.528,7,0.2,48.7011
+Second Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Technology,Accessories,124.25,7,0.0,48.4575
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Accessories,383.952,6,0.2,47.994
+Standard Class,Corporate,United States,Los Angeles,California,90049,West,Technology,Accessories,251.91,9,0.0,47.8629
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Technology,Accessories,251.91,9,0.0,47.8629
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,537.544,7,0.2,47.0351
+Standard Class,Consumer,United States,Mission Viejo,California,92691,West,Technology,Accessories,120.0,6,0.0,46.8
+Standard Class,Consumer,United States,Los Angeles,California,90008,West,Technology,Accessories,274.89,11,0.0,46.7313
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,122.92,7,0.2,46.095
+Second Class,Consumer,United States,Saint Louis,Missouri,63116,Central,Technology,Accessories,111.79,7,0.0,43.5981
+Standard Class,Consumer,United States,Modesto,California,95351,West,Technology,Accessories,111.79,7,0.0,43.5981
+Second Class,Consumer,United States,Miami,Florida,33180,South,Technology,Accessories,335.944,7,0.2,41.993
+Second Class,Consumer,United States,Detroit,Michigan,48234,Central,Technology,Accessories,104.88,6,0.0,41.952
+Standard Class,Consumer,United States,Fairfield,Ohio,45014,East,Technology,Accessories,158.928,7,0.2,41.7186
+Standard Class,Home Office,United States,Miami,Florida,33180,South,Technology,Accessories,158.928,7,0.2,41.7186
+First Class,Consumer,United States,Monroe,Louisiana,71203,South,Technology,Accessories,106.5,6,0.0,41.535
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,Technology,Accessories,191.472,6,0.2,40.6878
+Standard Class,Corporate,United States,Sacramento,California,95823,West,Technology,Accessories,209.94,6,0.0,39.8886
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Technology,Accessories,153.824,11,0.2,38.456
+First Class,Corporate,United States,Tucson,Arizona,85705,West,Technology,Phones,380.864,8,0.2,38.0864
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Technology,Phones,604.752,6,0.2,37.797
+Standard Class,Corporate,United States,New York City,New York,10011,East,Technology,Machines,78.66,6,0.0,36.1836
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Technology,Machines,105.552,6,0.2,35.6238
+Standard Class,Consumer,United States,Trenton,Michigan,48183,Central,Technology,Phones,125.7,6,0.0,35.196
+First Class,Consumer,United States,San Francisco,California,94109,West,Technology,Accessories,139.93,7,0.0,34.9825
+Standard Class,Corporate,United States,Draper,Utah,84020,West,Technology,Accessories,111.93,7,0.0,34.6983
+First Class,Consumer,United States,Mesa,Arizona,85204,West,Technology,Phones,552.0,10,0.2,34.5
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Technology,Phones,369.544,7,0.2,32.3351
+Standard Class,Consumer,United States,San Francisco,California,94109,West,Technology,Machines,369.16,11,0.2,32.3015
+Standard Class,Corporate,United States,Lowell,Massachusetts,1852,East,Technology,Phones,69.93,7,0.0,32.1678
+Second Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,119.7,6,0.0,31.122
+Standard Class,Corporate,United States,San Diego,California,92105,West,Technology,Accessories,116.0,8,0.0,29.0
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,Technology,Phones,255.936,8,0.2,28.7928
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Technology,Phones,369.544,7,0.2,27.7158
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Technology,Phones,242.624,8,0.2,27.2952
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Technology,Phones,79.92,10,0.2,26.973
+Standard Class,Corporate,United States,Columbus,Georgia,31907,South,Technology,Phones,95.68,8,0.0,26.7904
+Same Day,Consumer,United States,Spokane,Washington,99207,West,Technology,Accessories,239.94,6,0.0,26.3934
+Second Class,Consumer,United States,Los Angeles,California,90008,West,Technology,Accessories,68.46,7,0.0,25.3302
+Standard Class,Consumer,United States,Decatur,Alabama,35601,South,Technology,Accessories,239.92,8,0.0,23.992
+Standard Class,Consumer,United States,Louisville,Kentucky,40214,South,Technology,Phones,83.72,7,0.0,23.4416
+Second Class,Consumer,United States,Tulsa,Oklahoma,74133,Central,Technology,Accessories,167.28,12,0.0,23.4192
+First Class,Corporate,United States,Palatine,Illinois,60067,Central,Technology,Accessories,116.312,7,0.2,23.2624
+Standard Class,Home Office,United States,Los Angeles,California,90032,West,Technology,Accessories,176.8,8,0.0,22.984
+Standard Class,Consumer,United States,Roswell,Georgia,30076,South,Technology,Accessories,101.94,6,0.0,21.4074
+Second Class,Corporate,United States,Houston,Texas,77070,Central,Technology,Accessories,85.2,6,0.2,20.235
+Standard Class,Home Office,United States,Lakewood,California,90712,West,Technology,Phones,321.552,6,0.2,20.097
+First Class,Home Office,United States,New York City,New York,10035,East,Technology,Phones,71.76,6,0.0,20.0928
+First Class,Consumer,United States,Wilmington,Delaware,19805,East,Technology,Phones,68.04,7,0.0,19.7316
+Second Class,Corporate,United States,Chicago,Illinois,60623,Central,Technology,Accessories,62.4,6,0.2,19.5
+Standard Class,Consumer,United States,Santa Fe,New Mexico,87505,West,Technology,Accessories,92.52,9,0.0,18.504
+Second Class,Corporate,United States,Santa Ana,California,92704,West,Technology,Phones,143.952,6,0.2,17.994
+Standard Class,Consumer,United States,Charlotte,North Carolina,28205,South,Technology,Accessories,74.112,8,0.2,17.6016
+Standard Class,Home Office,United States,Los Angeles,California,90045,West,Technology,Phones,173.656,7,0.2,17.3656
+Second Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,132.6,6,0.0,17.238
+Standard Class,Consumer,United States,Springfield,Oregon,97477,West,Technology,Accessories,55.92,10,0.2,16.776
+Standard Class,Corporate,United States,Columbia,Missouri,65203,Central,Technology,Accessories,47.53,7,0.0,16.1602
+Second Class,Consumer,United States,Grove City,Ohio,43123,East,Technology,Phones,119.94,10,0.4,15.992
+First Class,Consumer,United States,Aurora,Colorado,80013,West,Technology,Phones,125.944,7,0.2,15.743
+First Class,Corporate,United States,Seattle,Washington,98115,West,Technology,Accessories,102.13,7,0.0,15.3195
+Standard Class,Consumer,United States,Daytona Beach,Florida,32114,South,Technology,Accessories,50.88,6,0.2,14.628
+Second Class,Consumer,United States,Thornton,Colorado,80229,West,Technology,Accessories,102.336,8,0.2,14.0712
+Second Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,71.6,8,0.0,13.604
+First Class,Consumer,United States,Austin,Texas,78745,Central,Technology,Accessories,62.592,8,0.2,13.3008
+Same Day,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,120.0,8,0.0,13.2
+Standard Class,Consumer,United States,Glendale,Arizona,85301,West,Technology,Accessories,89.544,7,0.2,12.3123
+First Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,115.136,8,0.2,11.5136
+Standard Class,Home Office,United States,Detroit,Michigan,48234,Central,Technology,Accessories,114.52,7,0.0,11.452
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Technology,Phones,143.64,9,0.2,10.773
+Second Class,Consumer,United States,Thornton,Colorado,80229,West,Technology,Accessories,76.752,6,0.2,10.5534
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,103.12,8,0.0,10.312
+Standard Class,Consumer,United States,Monroe,Louisiana,71203,South,Technology,Accessories,53.7,6,0.0,10.203
+Standard Class,Home Office,United States,Louisville,Kentucky,40214,South,Technology,Accessories,98.16,6,0.0,9.816
+First Class,Consumer,United States,Baltimore,Maryland,21215,East,Technology,Accessories,98.16,6,0.0,9.816
+Standard Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Technology,Accessories,98.16,6,0.0,9.816
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Technology,Accessories,98.16,6,0.0,9.816
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,62.958,7,0.4,9.4437
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Technology,Phones,86.352,6,0.2,8.6352
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,71.928,12,0.4,8.3916
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,33.0,6,0.0,8.25
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Technology,Accessories,131.6,7,0.0,7.896
+Standard Class,Corporate,United States,Los Angeles,California,90008,West,Technology,Phones,95.76,6,0.2,7.182
+Second Class,Consumer,United States,Springfield,Missouri,65807,Central,Technology,Accessories,112.8,6,0.0,6.768
+First Class,Corporate,United States,San Francisco,California,94110,West,Technology,Phones,66.976,7,0.2,6.6976
+Standard Class,Consumer,United States,Logan,Utah,84321,West,Technology,Accessories,82.8,12,0.0,6.624
+Same Day,Consumer,United States,Murray,Utah,84107,West,Technology,Phones,71.928,9,0.2,6.2937
+Second Class,Corporate,United States,Marietta,Georgia,30062,South,Technology,Accessories,101.7,6,0.0,6.102
+Same Day,Consumer,United States,Utica,New York,13501,East,Technology,Phones,119.94,6,0.0,5.997
+Standard Class,Corporate,United States,Seattle,Washington,98115,West,Technology,Phones,57.408,6,0.2,5.7408
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Technology,Accessories,41.72,7,0.2,5.7365
+Standard Class,Corporate,United States,Smyrna,Tennessee,37167,South,Technology,Phones,63.936,8,0.2,5.5944
+Standard Class,Corporate,United States,San Diego,California,92105,West,Technology,Phones,71.952,6,0.2,5.3964
+Standard Class,Consumer,United States,Long Beach,California,90805,West,Technology,Phones,44.736,8,0.2,4.4736
+Standard Class,Home Office,United States,San Diego,California,92024,West,Technology,Accessories,21.21,7,0.0,4.4541
+Second Class,Corporate,United States,Visalia,California,93277,West,Technology,Accessories,7.92,8,0.0,3.4848
+Second Class,Home Office,United States,New York City,New York,10011,East,Technology,Phones,160.93,7,0.0,3.2186
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,90.93,7,0.0,2.7279
+Standard Class,Corporate,United States,Mesquite,Texas,75150,Central,Technology,Accessories,5.544,7,0.2,1.6632
+Second Class,Corporate,United States,Newark,Ohio,43055,East,Technology,Accessories,122.328,9,0.2,1.5291
+First Class,Corporate,United States,Tulsa,Oklahoma,74133,Central,Technology,Phones,69.93,7,0.0,0.6993

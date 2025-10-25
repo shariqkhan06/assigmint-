@@ -1,0 +1,74 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Standard Class,Home Office,United States,Jacksonville,Florida,32216,South,Technology,Machines,22638.48,6,0.5,-1811.0784
+First Class,Home Office,United States,New York City,New York,10024,East,Technology,Copiers,11199.968,4,0.2,3919.9888
+Standard Class,Home Office,United States,Providence,Rhode Island,2908,East,Technology,Copiers,5399.91,9,0.0,2591.9568
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,4355.168,4,0.2,1415.4296
+First Class,Home Office,United States,Los Angeles,California,90008,West,Technology,Phones,4158.912,8,0.2,363.9048
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Machines,3404.5,5,0.0,1668.205
+Standard Class,Home Office,United States,Los Angeles,California,90032,West,Technology,Copiers,3359.952,6,0.2,1049.985
+Standard Class,Home Office,United States,Santa Barbara,California,93101,West,Technology,Phones,3023.928,9,0.2,226.7946
+Standard Class,Home Office,United States,Great Falls,Montana,59405,West,Technology,Copiers,2999.95,5,0.0,1379.977
+First Class,Home Office,United States,Los Angeles,California,90049,West,Technology,Copiers,2879.952,6,0.2,1007.9832
+Standard Class,Home Office,United States,San Diego,California,92037,West,Furniture,Chairs,2676.672,9,0.2,267.6672
+First Class,Home Office,United States,New York City,New York,10011,East,Furniture,Chairs,2621.322,11,0.1,553.3902
+Standard Class,Home Office,United States,Plainfield,New Jersey,7060,East,Office Supplies,Storage,2591.56,4,0.0,621.9744
+Standard Class,Home Office,United States,Henderson,Kentucky,42420,South,Furniture,Chairs,2573.82,9,0.0,746.4078
+Standard Class,Home Office,United States,Louisville,Colorado,80027,West,Technology,Machines,2549.985,5,0.7,-3399.98
+First Class,Home Office,United States,New York City,New York,10024,East,Technology,Phones,2399.6,8,0.0,647.892
+Same Day,Home Office,United States,Seattle,Washington,98105,West,Technology,Machines,2395.2,6,0.2,209.58
+Second Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Tables,2348.82,9,0.0,399.2994
+First Class,Home Office,United States,Knoxville,Tennessee,37918,South,Furniture,Tables,2314.116,7,0.4,-1002.7836
+Standard Class,Home Office,United States,New York City,New York,10011,East,Technology,Phones,2279.96,4,0.0,592.7896
+Second Class,Home Office,United States,Dover,New Hampshire,3820,East,Technology,Accessories,2249.91,9,0.0,517.4793
+First Class,Home Office,United States,Harrisonburg,Virginia,22801,South,Furniture,Tables,2244.48,7,0.0,493.7856
+Standard Class,Home Office,United States,Providence,Rhode Island,2908,East,Office Supplies,Storage,2079.4,5,0.0,582.232
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,2065.32,12,0.4,-619.596
+Same Day,Home Office,United States,Long Beach,California,90805,West,Furniture,Chairs,2054.272,8,0.2,256.784
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Tables,2036.86,7,0.0,366.6348
+Second Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Chairs,2003.92,5,0.2,125.245
+Second Class,Home Office,United States,Lakeville,Minnesota,55044,Central,Furniture,Chairs,2001.86,7,0.0,580.5394
+Standard Class,Home Office,United States,Jackson,Michigan,49201,Central,Technology,Accessories,1928.78,7,0.0,829.3754
+Second Class,Home Office,United States,Columbia,Missouri,65203,Central,Office Supplies,Appliances,1927.59,7,0.0,751.7601
+Second Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Tables,1913.4,9,0.0,401.814
+Standard Class,Home Office,United States,Richmond,Indiana,47374,Central,Technology,Phones,1879.96,4,0.0,545.1884
+Standard Class,Home Office,United States,Burbank,California,91505,West,Office Supplies,Storage,1856.19,7,0.0,334.1142
+Second Class,Home Office,United States,Fort Worth,Texas,76106,Central,Technology,Phones,1718.4,6,0.2,150.36
+First Class,Home Office,United States,New York City,New York,10035,East,Technology,Machines,1704.89,11,0.0,767.2005
+Same Day,Home Office,United States,Seattle,Washington,98105,West,Technology,Accessories,1687.8,4,0.0,742.632
+Standard Class,Home Office,United States,Providence,Rhode Island,2908,East,Technology,Accessories,1687.8,4,0.0,742.632
+First Class,Home Office,United States,San Diego,California,92037,West,Furniture,Tables,1673.184,12,0.2,20.9148
+Standard Class,Home Office,United States,Los Angeles,California,90008,West,Office Supplies,Appliances,1640.7,5,0.0,459.396
+Standard Class,Home Office,United States,Burlington,North Carolina,27217,South,Office Supplies,Binders,1633.188,4,0.7,-1306.5504
+First Class,Home Office,United States,Providence,Rhode Island,2908,East,Office Supplies,Storage,1606.23,9,0.0,481.869
+Standard Class,Home Office,United States,Cheyenne,Wyoming,82001,West,Furniture,Chairs,1603.136,4,0.2,100.196
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,Office Supplies,Storage,1575.14,7,0.0,204.7682
+Second Class,Home Office,United States,Lakeville,Minnesota,55044,Central,Office Supplies,Appliances,1503.25,5,0.0,496.0725
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,1499.97,5,0.4,-374.9925
+First Class,Home Office,United States,Lehi,Utah,84043,West,Technology,Copiers,1499.95,5,0.0,449.985
+Standard Class,Home Office,United States,San Gabriel,California,91776,West,Furniture,Chairs,1487.04,5,0.2,148.704
+Standard Class,Home Office,United States,Richmond,Kentucky,40475,South,Office Supplies,Storage,1443.96,12,0.0,375.4296
+Same Day,Home Office,United States,Muskogee,Oklahoma,74403,Central,Technology,Phones,1439.92,8,0.0,374.3792
+Second Class,Home Office,United States,Houston,Texas,77036,Central,Technology,Phones,1415.76,6,0.2,88.485
+Standard Class,Home Office,United States,Dubuque,Iowa,52001,Central,Furniture,Chairs,1408.1,10,0.0,394.268
+Standard Class,Home Office,United States,Colorado Springs,Colorado,80906,West,Furniture,Chairs,1325.76,6,0.2,149.148
+Standard Class,Home Office,United States,Burlington,Vermont,5408,East,Technology,Phones,1294.75,5,0.0,336.635
+Standard Class,Home Office,United States,Burbank,California,91505,West,Technology,Machines,1279.968,4,0.2,415.9896
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Furniture,Tables,1272.63,6,0.5,-814.4832
+Standard Class,Home Office,United States,Columbus,Georgia,31907,South,Office Supplies,Storage,1267.65,9,0.0,152.118
+Second Class,Home Office,United States,New York City,New York,10024,East,Furniture,Chairs,1242.9,5,0.1,262.39
+Standard Class,Home Office,United States,Los Angeles,California,90008,West,Technology,Phones,1212.848,7,0.2,106.1242
+Standard Class,Home Office,United States,Jackson,Michigan,49201,Central,Technology,Phones,1199.8,4,0.0,323.946
+Second Class,Home Office,United States,San Francisco,California,94110,West,Furniture,Bookcases,1198.33,10,0.15,70.49
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,Furniture,Chairs,1166.92,5,0.2,131.2785
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,1141.47,5,0.7,-760.98
+Standard Class,Home Office,United States,Chesapeake,Virginia,23320,South,Furniture,Chairs,1139.92,4,0.0,284.98
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Tables,1137.75,5,0.0,250.305
+Second Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Storage,1117.92,4,0.0,55.896
+Standard Class,Home Office,United States,Oklahoma City,Oklahoma,73120,Central,Office Supplies,Storage,1117.92,4,0.0,55.896
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,Technology,Phones,1091.168,4,0.2,68.198
+Standard Class,Home Office,United States,Franklin,Massachusetts,2038,East,Office Supplies,Storage,1088.76,6,0.0,315.7404
+Second Class,Home Office,United States,Dover,New Hampshire,3820,East,Furniture,Tables,1053.164,4,0.3,-105.3164
+Standard Class,Home Office,United States,Baltimore,Maryland,21215,East,Furniture,Furnishings,1049.2,5,0.0,272.792
+Standard Class,Home Office,United States,Vallejo,California,94591,West,Furniture,Furnishings,1049.2,5,0.0,272.792
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,1007.232,6,0.2,75.5424
+Standard Class,Home Office,United States,Los Angeles,California,90004,West,Furniture,Tables,1004.976,6,0.2,-175.8708
